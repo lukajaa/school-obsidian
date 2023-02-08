@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiFingerprint-2-line",
+      "FarAddress-book",
+      "SiWolframmathematica",
+      "RiMicroscope-line",
+      "IbFlag"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "American Studies": "IbFlag",
+  "Biology": "RiMicroscope-line",
+  "Calculus": "SiWolframmathematica",
+  "Biology/Genetics": "RiFingerprint-2-line"
+}
