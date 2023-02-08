@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMicroscopeLine",
       "RiFingerprint-2-line",
       "FarAddress-book",
       "SiWolframmathematica",
-      "RiMicroscope-line",
-      "IbFlag"
+      "RiMicroscope-line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,7 +22,7 @@
     }
   },
   "American Studies": "IbFlag",
-  "Biology": "RiMicroscope-line",
+  "Biology": "RiMicroscopeLine",
   "Calculus": "SiWolframmathematica",
   "Biology/Genetics": "RiFingerprint-2-line"
 }
