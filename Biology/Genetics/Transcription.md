@@ -1,5 +1,5 @@
 - How does transcription work?
-	[[DNA]] double helix is split and corresponding nucleotides are created in a [[RNA]] strand. This is known as mRNA.
+	[[DNA]] double helix is split by [[RNA Polymerase]] and corresponding nucleotides are created in a [[RNA]] strand. This is known as mRNA.
 - Where does transcription take place?
 	In the nucleus
 - What is a primary transcript?

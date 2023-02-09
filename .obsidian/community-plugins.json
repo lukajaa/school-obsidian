@@ -3,5 +3,8 @@
   "obsidian-icon-folder",
   "obsidian-minimal-settings",
   "obsidian-git",
-  "obsidian-hider"
+  "obsidian-hider",
+  "obsidian-banners",
+  "highlightr-plugin",
+  "url-into-selection"
 ]
