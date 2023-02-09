@@ -3,7 +3,7 @@
 - Where does translation occur?
 	Ribosomes
 -   How do the bases in RNA get translated into the amino acids in proteins?
-    Triplets of bases (codons) in RNA (eg. ACT) turn into an amino acid. Additionally certain triplets represent the start (ATG) and end (TAA, TAG, TGA)
+    Triplets of bases ([[Codons]]) in RNA (eg. ACT) turn into an amino acid. Additionally certain triplets represent the start (ATG) and end (TAA, TAG, TGA)
 -   Why triplets of RNA bases?
     Because it was the minimum amount of letters that could have enough possible combinations.
 - In which direction are mRNA strands transcribed?

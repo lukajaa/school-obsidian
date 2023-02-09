@@ -10,7 +10,6 @@
   "page-preview",
   "templates",
   "note-composer",
-  "editor-status",
-  "outline",
-  "file-recovery"
+  "slash-command",
+  "editor-status"
 ]

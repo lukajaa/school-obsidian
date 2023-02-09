@@ -5,7 +5,7 @@
 	[[Nucleotides]]
 - What is the central Dogma
 	The central dogma is the idea that [[DNA]] --> [[RNA]] --> [[Protein]]
-- How does the central Dogma differ in prokaryotic and eukaryotic cells?
+- How does the central Dogma differ in [[Prokaryotes]] and [[Eukaryotes]]?
 	In eukaryotic cells transcription happens in the nucleus and then has to be shipped out, where as prokaryotic cells have no barrier and thus mRNA can be transcribed and translated at the same time.
 ## Packaging
 - Around how long is all of the DNA in one cell?
