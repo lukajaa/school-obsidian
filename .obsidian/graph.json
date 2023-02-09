@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:biology",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 1.14994303385417,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.709798177083333,
+  "repelStrength": 19.7347005208333,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.7622368935171329,
+  "linkDistance": 500,
+  "scale": 0.9048452354935924,
   "close": false
 }

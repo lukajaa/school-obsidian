@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNA Polymerase.md",
+                "file": "Biology/Genetics/RNA Splicing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74f4aaee253cdf2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Genetics/RNA Splicing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNA Polymerase.md",
+                "file": "Biology/Genetics/RNA Splicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RNA Polymerase.md",
+                "file": "Biology/Genetics/RNA Splicing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RNA Polymerase.md"
+                "file": "Biology/Genetics/RNA Splicing.md"
               }
             }
           }
@@ -136,17 +149,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "08f756c1afcfa2c1",
+  "active": "74f4aaee253cdf2a",
   "lastOpenFiles": [
+    "Biology/Genetics/Ribozyme.md",
+    "Biology/Genetics/Enzymes.md",
+    "Biology/Genetics/RNA Splicing.md",
+    "Biology/Genetics/Exons.md",
+    "Biology/Genetics/Introns.md",
+    "Biology/Genetics/RNA Processing.md",
     "Biology/Genetics/Transcription.md",
-    "Biology/Genetics/RNA.md",
-    "Biology/Genetics/Amino Acids.md",
-    "Biology/Genetics/Nucleotides.md",
-    "Biology/Genetics/Genes.md",
-    "Untitled.md",
-    "Biology/Genetics/DNA.md",
-    "Test.md",
-    "Untitled.canvas",
-    "Biology/Genetics/Translation.md"
+    "Biology/Genetics/Eukaryotes.md",
+    "Biology/Genetics/Translation.md",
+    "Biology/Genetics/RNA.md"
   ]
 }

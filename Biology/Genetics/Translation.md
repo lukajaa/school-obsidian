@@ -1,5 +1,5 @@
 - What is translation
-	Translation is the process by which nucleotides in [[RNA]] are translated into amino acids in the form of proteins
+	Translation is the process by which nucleotides in [[RNA]] are translated into amino acids in the form of [[Protein]]s
 - Where does translation occur?
 	Ribosomes
 -   How do the bases in RNA get translated into the amino acids in proteins?
