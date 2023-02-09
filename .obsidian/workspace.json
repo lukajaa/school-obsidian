@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -129,15 +128,15 @@
   },
   "active": "921a63bf6adc87a1",
   "lastOpenFiles": [
-    "American Studies/Abraham Lincoln.md",
+    "Biology/Genetics/RNA Splicing.md",
+    "Biology/Genetics/RNA Processing.md",
+    "Biology/Genetics/Nucleus.md",
     "Biology/Genetics/Transcription.md",
+    "American Studies/Reconstruction.md",
+    "American Studies/Abraham Lincoln.md",
     "Biology/Genetics/DNA.md",
     "Biology/Genetics/Prokaryotes.md",
     "Biology/Genetics/mRNA.md",
-    "Biology/Genetics/RNA.md",
-    "Biology/Genetics/Introns.md",
-    "Biology/Genetics/Exons.md",
-    "Biology/Genetics/tRNA.md",
-    "Biology/Genetics/Transcription Unit.md"
+    "Biology/Genetics/RNA.md"
   ]
 }
