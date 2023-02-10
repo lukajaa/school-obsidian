@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Genetics/Topics/mRNA.md",
+                "file": "Biology/Genetics/Topics/RNA.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Genetics/Topics/mRNA.md",
+                "file": "Biology/Genetics/Topics/RNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Genetics/Topics/mRNA.md",
+                "file": "Biology/Genetics/Topics/RNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +128,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6043e84c70296472",
+  "active": "7cec76f4b2049e16",
   "lastOpenFiles": [
+    "Biology/Genetics/Topics/mRNA.md",
+    "Biology/Genetics/Topics/RNA.md",
     "Biology/Genetics/Topics/Prokaryotes.md",
     "Biology/Genetics/Topics/Nucleus.md",
     "Biology/Genetics/Topics/Chromosomes.md",
@@ -137,8 +139,6 @@
     "Biology/Genetics/Topics/Introns.md",
     "Biology/Genetics/Topics/RNA Polymerase.md",
     "Excalidraw/Test.excalidraw.md",
-    "Biology/Genetics/Topics/RNA Splicing.md",
-    "Biology/Genetics/Topics/Alternative RNA splicing.md",
-    "Biology/Genetics/Topics/Terminator.md"
+    "Biology/Genetics/Topics/RNA Splicing.md"
   ]
 }
