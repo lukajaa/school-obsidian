@@ -11,15 +11,20 @@
             "id": "7cec76f4b2049e16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Genetics/Topics/RNA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fa2a6507ac0678a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Genetics/Topics/RNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Genetics/Topics/RNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +131,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cec76f4b2049e16",
+  "active": "2fa2a6507ac0678a",
   "lastOpenFiles": [
-    "Biology/Genetics/Topics/mRNA.md",
-    "Biology/Genetics/Topics/RNA.md",
-    "Biology/Genetics/Topics/Prokaryotes.md",
-    "Biology/Genetics/Topics/Nucleus.md",
-    "Biology/Genetics/Topics/Chromosomes.md",
-    "Biology/Genetics/Topics/DNA.md",
-    "Biology/Genetics/Topics/Introns.md",
-    "Biology/Genetics/Topics/RNA Polymerase.md",
-    "Excalidraw/Test.excalidraw.md",
-    "Biology/Genetics/Topics/RNA Splicing.md"
+    "Statistics/Six Steps/Look back and ahead.md",
+    "Statistics/Six Steps/Conclusion.md",
+    "Statistics/Six Steps/Draw inferences.md",
+    "Statistics/Six Steps/Explore the data.md",
+    "Statistics/Six Steps/Study.md",
+    "Statistics/Six Steps/Research Question.md",
+    "Statistics/Six Steps of an Statistical Investigation.md",
+    "Statistics/Six Steps/Formulate conclusions.md",
+    "Statistics/Six Steps/Draw inferences beyond the data.md",
+    "Statistics/Six Steps/Design a study and collect data.md"
   ]
 }
