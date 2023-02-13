@@ -9,6 +9,8 @@
 	The template strand is the half of the DNA that is transcribed to RNA. The other strand is the coding strand.
 - What process follows transcription?
 	[[RNA Processing]]
+- In which direction are [[mRNA]] strands transcribed?
+	5' --> 3'
 
 ## Steps
 - What is the first step of transcription?

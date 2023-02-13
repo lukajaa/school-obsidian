@@ -12,6 +12,6 @@
 - What do the 5' cap and poly-A tail do?
 	1. They help export completed mRNA out of the [[Nucleus]]
 	2. They help the mRNA from being degraded
-	3. They help bind to [[Ribosomes]] append to the 5' side of the RNA
+	3. They help bind to [[Ribosome]]s append to the 5' side of the RNA
 
 [[RNA Splicing]]
