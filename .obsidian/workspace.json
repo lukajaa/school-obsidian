@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f1e372e3fae460",
+        "id": "da0bdbf1a3c5e830",
         "type": "tabs",
         "children": [
           {
-            "id": "7cec76f4b2049e16",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2fa2a6507ac0678a",
+            "id": "62ad34b39b0441ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Six Steps of an Statistical Investigation.md",
+                "file": "American Studies/Unraveling of Reconstruction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Six Steps of an Statistical Investigation.md",
+                "file": "American Studies/Unraveling of Reconstruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Six Steps of an Statistical Investigation.md",
+                "file": "American Studies/Unraveling of Reconstruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +128,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fa2a6507ac0678a",
+  "active": "62ad34b39b0441ae",
   "lastOpenFiles": [
-    "Statistics/Six Steps/Look back and ahead.md",
-    "Statistics/Six Steps/Conclusion.md",
-    "Statistics/Six Steps/Draw inferences.md",
-    "Statistics/Six Steps/Explore the data.md",
-    "Statistics/Six Steps/Study.md",
-    "Statistics/Six Steps/Research Question.md",
-    "Statistics/Six Steps of an Statistical Investigation.md",
-    "Statistics/Six Steps/Formulate conclusions.md",
-    "Statistics/Six Steps/Draw inferences beyond the data.md",
-    "Statistics/Six Steps/Design a study and collect data.md"
+    "American Studies/Consequences of Reconstruction.md",
+    "American Studies/Effects of Reconstruction.md",
+    "American Studies/Emancipation Proclamation.md",
+    "American Studies/Robert E Lee.md",
+    "American Studies/Unraveling of Reconstruction.md",
+    "American Studies/Andrew Johnson.md",
+    "American Studies/Colonization.md",
+    "American Studies/Civil War.md",
+    "American Studies/Reconstruction.md",
+    "American Studies/Henry Grady.md"
   ]
 }
