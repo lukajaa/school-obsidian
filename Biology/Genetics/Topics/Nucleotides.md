@@ -1,6 +1,3 @@
----
-banner: "![[Integral Intro.png]]"
----
 #genetics #monomer 
 - What is a nucleotide?
 	Nucleotides are nitrogen bases with a sugar backbone and are the monomers for both [[RNA]] and [[DNA]]

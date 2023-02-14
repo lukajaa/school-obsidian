@@ -1,7 +1,7 @@
 > The more that African Americans Achieved, the more they were in danger
 - How did [[Robert E Lee]]'s death affect the South?
 	They made him a martyr and mourned his death in newspapers, schools and the whole town.
-- What did the KKK do during reconstruction?
+- What did the KKK do during [[reconstruction]]?
 	The KKK targeted successful black leaders and even white people sympathetic to black people and tried to pay them or beat them into submission
 	- How did congress respond?
 		The KKK act allowed the federal military to suppress violence and took advantage of the fact that violent crimes can be held without court

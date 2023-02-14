@@ -10,3 +10,9 @@
 	Kansas
 - What aware all black communities?
 	They were communities without white people so black people did not have to compete with them
+- What was lynching?
+	It is when a mob of white people upset at the goals of black people attacked and killed a black person
+- How did newspapers change the narrative of racism?
+	Instead of showing black people as brutes, it depicted lynchings as bad
+- Who was a famous black journalist?
+	[[Ida B. Wells]]

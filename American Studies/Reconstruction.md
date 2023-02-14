@@ -10,7 +10,6 @@
 	Howard Freedman head of a new Bureau of freed people
 
 **Related Notes**
-[[Reconstruction Amendments]]
 [[Consequences of Reconstruction]]
 [[Effects of Reconstruction]]
 [[Unraveling of Reconstruction]]

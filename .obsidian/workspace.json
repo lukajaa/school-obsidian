@@ -11,8 +11,24 @@
             "id": "62ad34b39b0441ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Ida B. Wells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92212be1db7da781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Plessy vs. Ferguson.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Genetics/Topics/tRNA.md",
+                "file": "Biology/Genetics/Topics/Ribosome.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -86,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Genetics/Topics/tRNA.md",
+                "file": "American Studies/Plessy vs. Ferguson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Genetics/Topics/tRNA.md",
+                "file": "American Studies/Plessy vs. Ferguson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +153,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6dd74837e66b2ca",
+  "active": "6043e84c70296472",
   "lastOpenFiles": [
-    "Biology/Genetics/Topics/Aminoacyl-tRNA synthetase.md",
-    "Biology/Genetics/Topics/tRNA.md",
-    "Biology/Genetics/Topics/RNA Processing.md",
-    "Biology/Genetics/Topics/Amino Acid.md",
-    "Biology/Genetics/Topics/Transcription.md",
-    "Biology/Genetics/Topics/Transcription Unit.md",
-    "Biology/Genetics/Topics/Translation.md",
-    "Biology/Genetics/Topics/Codons.md",
+    "American Studies/Ida B. Wells.md",
+    "American Studies/Unraveling of Reconstruction.md",
+    "American Studies/Consequences of Reconstruction.md",
+    "American Studies/Reconstruction.md",
+    "Biology/Genetics/Topics/Nucleotides.md",
     "Biology/Genetics/Topics/Ribosome.md",
-    "Biology/Genetics/Topics/Protein.md"
+    "Biology/Genetics/Topics/Terminator.md",
+    "Biology/Genetics/Topics/Transcription Unit.md",
+    "Biology/Genetics/Topics/tRNA.md",
+    "Biology/Genetics/Topics/Translation.md"
   ]
 }
