@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAncientGateLine",
       "IbPencil",
       "IbChartBar",
       "RiMicroscopeLine",
-      "RiFingerprint-2-line",
-      "FarAddress-book"
+      "RiFingerprint-2-line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "Calculus": "SiWolframmathematica",
   "Biology/Genetics": "RiFingerprint-2-line",
   "Statistics": "IbChartBar",
-  "Excalidraw": "IbPencil"
+  "Excalidraw": "IbPencil",
+  "Asian American Literature": "RiAncientGateLine"
 }

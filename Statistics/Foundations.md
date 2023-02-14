@@ -5,3 +5,8 @@
 	4. [[Draw inferences]] beyond the [[data]]
 	5. Formulate [[Conclusion]]s
 	6. [[Look back and ahead]]
+- What are the four pillars of statistical inference?
+	1. [[Significance]]
+	2. [[Estimation]]
+	3. [[Generalization]]
+	4. [[Causation]]
