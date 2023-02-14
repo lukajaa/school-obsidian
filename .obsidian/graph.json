@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:biology",
+  "search": "path:statistics",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9761980504228432,
+  "scale": 1.4531880185576314,
   "close": false
 }
