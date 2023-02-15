@@ -24,7 +24,7 @@
 
 ## Termination
 - How does elongation terminate?
-	If a stop codon is detected, a stop factor is input where the [[tRNA]] would have gone and water is introduced which hydrolyzes the translation unit
+	If a stop codon is detected, a release factor is input where the [[tRNA]] would have gone and water is introduced which hydrolyzes the translation unit
 - What happens to the polypeptide chain after it is released?
 	It folds onto itself due to its [[amino acid]] formation
 - What are post-translational modifications?

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "American Studies/Unraveling of Reconstruction.md",
+                "file": "Biology/Genetics/Topics/Translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Studies/Unraveling of Reconstruction.md",
+                "file": "Biology/Genetics/Topics/Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Studies/Unraveling of Reconstruction.md",
+                "file": "Biology/Genetics/Topics/Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "66667e041da5916d",
   "lastOpenFiles": [
+    "Biology/Genetics/Topics/Terminator.md",
+    "Biology/Genetics/Topics/Transcription.md",
+    "Biology/Genetics/Topics/Transcription Factor.md",
+    "Biology/Genetics/Topics/Translation.md",
+    "Biology/Genetics/Topics/Promoter.md",
+    "Biology/Genetics/Topics/RNA Splicing.md",
+    "Biology/Genetics/Topics/RNA Processing.md",
+    "American Studies/Unraveling of Reconstruction.md",
     "American Studies/Reconstruction.md",
-    "Statistics/Qualitative.md",
-    "Statistics/Quantitative.md",
-    "Statistics/Distribution.md",
-    "Statistics/Data.md",
-    "Statistics/Four pillars/Causation.md",
-    "Statistics/Four pillars/Estimation.md",
-    "Statistics/Four pillars/Generalization.md",
-    "Statistics/Four pillars/Significance.md",
-    "Statistics/Six Steps/Draw inferences.md"
+    "Statistics/Qualitative.md"
   ]
 }
