@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Genetics/Topics/Translation.md",
+                "file": "American Studies/Consequences of Reconstruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Genetics/Topics/Translation.md",
+                "file": "American Studies/Consequences of Reconstruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Genetics/Topics/Translation.md",
+                "file": "American Studies/Consequences of Reconstruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "66667e041da5916d",
   "lastOpenFiles": [
+    "American Studies/Reconstruction.md",
+    "American Studies/Unraveling of Reconstruction.md",
+    "American Studies/Consequences of Reconstruction.md",
+    "American Studies/Emancipation Proclamation.md",
+    "American Studies/Effects of Reconstruction.md",
+    "American Studies/Abraham Lincoln.md",
+    "Biology/Genetics/Topics/Translation.md",
     "Biology/Genetics/Topics/Terminator.md",
     "Biology/Genetics/Topics/Transcription.md",
-    "Biology/Genetics/Topics/Transcription Factor.md",
-    "Biology/Genetics/Topics/Translation.md",
-    "Biology/Genetics/Topics/Promoter.md",
-    "Biology/Genetics/Topics/RNA Splicing.md",
-    "Biology/Genetics/Topics/RNA Processing.md",
-    "American Studies/Unraveling of Reconstruction.md",
-    "American Studies/Reconstruction.md",
-    "Statistics/Qualitative.md"
+    "Biology/Genetics/Topics/Transcription Factor.md"
   ]
 }
