@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Genetics/Topics/Translation.md",
+                "file": "Biology/Genetics/Stuff Notes/The Gene Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Genetics/Topics/Translation.md",
+                "file": "Biology/Genetics/Stuff Notes/The Gene Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Genetics/Topics/Translation.md",
+                "file": "Biology/Genetics/Stuff Notes/The Gene Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "66667e041da5916d",
   "lastOpenFiles": [
+    "Biology/Genetics/Topics/tRNA.md",
+    "Biology/Genetics/Topics/Wobble.md",
+    "Biology/Genetics/Topics/Translation.md",
     "Biology/Genetics/Topics/Transcription Unit.md",
     "Biology/Genetics/Topics/Transcription Factor.md",
     "Biology/Genetics/Topics/Transcription.md",
     "Biology/Genetics/Topics/Terminator.md",
     "Biology/Genetics/Topics/rRNA.md",
     "Biology/Genetics/Topics/RNA Splicing.md",
-    "Biology/Genetics/Topics/RNA Processing.md",
-    "Biology/Genetics/Topics/RNA Polymerase.md",
-    "Biology/Genetics/Topics/RNA.md",
-    "Biology/Genetics/Topics/Ribozyme.md"
+    "Biology/Genetics/Topics/RNA Processing.md"
   ]
 }

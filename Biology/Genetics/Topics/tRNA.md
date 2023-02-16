@@ -4,7 +4,7 @@
 	It is made of around 80 [[nucleotides]] with pairs that can bond to each other so that it folds into itself.
 - How is an anticodon coded?
 	It is coded as the opposite of the [[mRNA]] codon it is matching to so that it can latch onto it in the [[ribosome]]
-==- How is tRNA made?==
+- How is tRNA made?
 	It comes from [[DNA]] just like [[mRNA]], but it serves a different purpose
 - How does the [[amino acid]] join with the tRNA?
 	[[Aminoacyl-tRNA synthetase]] binds it to the 3' side of the tRNA
