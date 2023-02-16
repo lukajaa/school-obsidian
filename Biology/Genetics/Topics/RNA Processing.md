@@ -2,7 +2,7 @@
 	[[RNA]] processing is where the ends and sometimes the middle of the primary transcript of pre mRNA are altered to yield a final RNA molecule.
 - Where does RNA Processing occur?
 	RNA processing occurs in the [[Nucleus]]
-- What is the polyandenylation signal?
+==- What is the polyandenylation signal?==
 	It is a series of AAUAAA [[Nucleotides]] that is appended to the pre mRNA after the stop codon.
 
 - What is the 5' cap?

@@ -2,7 +2,7 @@
 	It is a [[Organelle]] that translates [[mRNA]] to [[Protein]]s
 - Where are the two places where ribosomes are found?
 	In the [[Cytoplasm]] and embedded on other organelles like the [[Golgi Apparatus]], [[Endoplasmic Reticulum]], [[Nuclear Envelope]], [[Lysosome]]s, [[Vacuole]]s, and [[Plasma Membrane]]
-- How does a ribosome know where to go?
+==- How does a ribosome know where to go?==
 	[[Translation]] of a polypeptide always starts in the [[Cytoplasm]], but if a signal peptide is detected by a signal-recognition particle (SRP) then the SRP brings it to where it needs to go. the signal peptide is later removed. Translation is only interuppted if it is moving the the [[Endoplasmic Reticulum]]
 - What is the structure of a ribosome?
 	It is a two unit organelle that has [[rRNA]]

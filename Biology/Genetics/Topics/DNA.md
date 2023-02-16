@@ -20,7 +20,7 @@
 	They are nucleosomes with linking DNA.
 - How long is the string of nucleosomes?
 	About one foot long, but still too large to fit into a nucleus
-- How does DNA coil and uncoil to be copied?
+==- How does DNA coil and uncoil to be copied?==
 	Histones can be modified by enzymes (acetyl, methyl, or phosphate) OR chromatin rendering complexes can remodel the DNA and expose sequences for polymerases to access. These are all reversible
 - Why is DNA coiled the tightest in metaphase?
 	Because it needs to be divided into its two daughter cells. Once it has been divided, it can uncoil again.
