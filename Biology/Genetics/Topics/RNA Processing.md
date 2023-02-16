@@ -3,7 +3,7 @@
 - Where does RNA Processing occur?
 	RNA processing occurs in the [[Nucleus]]
 ==- What is the polyandenylation signal?==
-	It is a series of AAUAAA [[Nucleotides]] that is appended to the pre mRNA after the stop codon.
+	It is a series of AAUAAA [[Nucleotides]] that is appended to the pre mRNA after the stop [[codons]].
 
 - What is the 5' cap?
 	The 5' cap is a modified form of the guanine [[Nucleotides]] added to the 5' side of the RNA

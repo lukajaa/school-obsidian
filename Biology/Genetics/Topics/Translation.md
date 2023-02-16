@@ -7,7 +7,7 @@
 ==- What is the reading frame?==
 	Reading frame is how nucleotide "words" are read. You have to start in the right place and not overlap for it to work correctly.
 - What happens after translation?
-	It gets packaged, folded, and then occasionally shipped to other parts of the cell
+	The polypeptide [[protein]] gets packaged, folded, and then occasionally shipped to other parts of the cell
 - How can the process of translation be sped up using the same [[mRNA]] strand?
 	[[Polyribosome]]s
 

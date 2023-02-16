@@ -7,7 +7,7 @@
 	A primary transcript is the initial RNA transcript from a gene including parts of RNA that will not be translated.
 - What is the template strand?
 	The template strand is the half of the DNA that is transcribed to RNA. The other strand is the coding strand.
-- What process follows transcription?
+- What process follows transcription in [[Eukaryotes]]?
 	[[RNA Processing]]
 - In which direction are [[mRNA]] strands transcribed?
 	5' --> 3'
