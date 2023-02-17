@@ -17,6 +17,6 @@
 2.  What came from the “greatest all nighter science has ever known”?
 	
 3.  What tragedy motivates Dr. Chung’s work with children and families w/ rare diseases?
-	
+	Her second son died.
 4.  In order to move forward in Kif1A research why did they need 100 patients and “a mouse”?
-	
+	So they can find other people with the same gene so they could find what was causing the mutation. Also they needed a mouse so they could test the experimental drugs.
