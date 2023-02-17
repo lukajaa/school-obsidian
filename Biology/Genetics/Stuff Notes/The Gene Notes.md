@@ -15,7 +15,7 @@
 1.  What did Thomas Hunt Morgan discover that went beyond Mendel’s findings?
 	Genetically inherited traits are not unique/seperate from each other. Rather, they are strung together "like beads on a string". During exchange of genetic material, beads are sometimes swapped and close ones are swapped together.
 2.  What came from the “greatest all nighter science has ever known”?
-	
+	d
 3.  What tragedy motivates Dr. Chung’s work with children and families w/ rare diseases?
 	Her second son died.
 4.  In order to move forward in Kif1A research why did they need 100 patients and “a mouse”?

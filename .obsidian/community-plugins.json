@@ -6,5 +6,6 @@
   "url-into-selection",
   "obsidian-excalidraw-plugin",
   "emoji-shortcodes",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "obsidian-pandoc"
 ]

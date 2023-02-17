@@ -1,3 +1,3 @@
 #genetics 
 - What is a chromosome?
-	A chromosome is a group of [[Genes]] made up of [[DNA]]
+	Made up of [[Genes]] of [[DNA]], tightest form of DNA
