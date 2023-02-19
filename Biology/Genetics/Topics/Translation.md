@@ -12,7 +12,7 @@
 	[[Polyribosome]]s
 
 
-## Initionation:
+## Initianation:
 - What is initiation?
 	[[mRNA]] binds to the smaller unit of the [[ribosome]], then [[tRNA]](always the MET [[amino acid]]) binds and then the large unit  of the [[ribosome]] comes down onto it. 
 - What resources does initiation require?
