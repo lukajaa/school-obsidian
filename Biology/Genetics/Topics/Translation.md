@@ -11,7 +11,6 @@
 - How can the process of translation be sped up using the same [[mRNA]] strand?
 	[[Polyribosome]]s
 
-
 ## Initianation:
 - What is initiation?
 	[[mRNA]] binds to the smaller unit of the [[ribosome]], then [[tRNA]](always the MET [[amino acid]]) binds and then the large unit  of the [[ribosome]] comes down onto it. 
