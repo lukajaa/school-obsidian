@@ -13,13 +13,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Genetics/Topics/Wobble.md",
+                "file": "American Studies/Reconstruction/Unraveling of Reconstruction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed3cdfdd58bae1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Gilded Age.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05d5714e6164a71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Progressivism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdcbfb647b1b15bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Robber Baron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7912eabe3bc78e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Populism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4673373586b230b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Social Darwinism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da5e3b13c9a2f850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Muckrakers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf2f596341c80de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Welfare Capitalism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "641fbf587ecd1dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Gilded Age.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a733856746f0828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -77,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Genetics/Topics/Wobble.md",
+                "file": "American Studies/Gilded Age/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Genetics/Topics/Wobble.md",
+                "file": "American Studies/Gilded Age/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +236,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "570bdb4d2cd980ae",
+  "active": "2a733856746f0828",
   "lastOpenFiles": [
-    "Biology/Genetics/Topics/tRNA.md",
-    "Biology/Genetics/Topics/Translation.md",
-    "Biology/Genetics/Topics/Transcription Unit.md",
-    "Biology/Genetics/Topics/Transcription Factor.md",
-    "Biology/Genetics/Topics/Transcription.md",
-    "Biology/Genetics/Topics/Terminator.md",
-    "Biology/Genetics/Topics/rRNA.md",
-    "Biology/Genetics/Topics/RNA Splicing.md",
-    "Biology/Genetics/Topics/RNA Processing.md",
-    "Biology/Genetics/Topics/RNA Polymerase.md"
+    "American Studies/Gilded Age/Gilded Age.md",
+    "American Studies/Reconstruction/Reconstruction.md",
+    "American Studies/Gilded Age/Progressive Era.md",
+    "American Studies/Gilded Age/Welfare Capitalism.md",
+    "American Studies/Gilded Age/Muckrakers.md",
+    "American Studies/Gilded Age/Social Darwinism.md",
+    "American Studies/Gilded Age/Populism.md",
+    "American Studies/Gilded Age/Robber Baron.md",
+    "American Studies/Gilded Age/Progressivism.md",
+    "American Studies/Reconstruction/Unraveling of Reconstruction.md"
   ]
 }

@@ -1,0 +1,2 @@
+- What is social darwinism?
+	Social Darwinism posits that the fittest, smartest humans in a society will automatically rise to the top, while poor people are poor because they inherently have no skills

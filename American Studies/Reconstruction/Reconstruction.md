@@ -1,4 +1,5 @@
 #civil-war 
+1867-1871
 ## Overview
 - How did Lincoln's assassination affect reconstruction?
 	Succeeded by [[Andrew Johnson]] who was a bad president that vetoed many of congresses attempts at reform
@@ -8,6 +9,9 @@
 	To be reunited with their families.
 - Who led reconstruction efforts?
 	Howard Freedman head of a new Bureau of freed people
+- What era followed reconstruction?
+	The [[Gilded Age]]
+
 
 **Related Notes**
 [[Consequences of Reconstruction]]
