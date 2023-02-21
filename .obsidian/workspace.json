@@ -150,9 +150,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a15a25b0b8cc0dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/History of Immigration into the US.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e53a4c414a41d264",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca4b25b023ec317a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Gilded Age/Four Waves of Immigration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -210,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Studies/Gilded Age/Resources/New Imigrants.md",
+                "file": "American Studies/Gilded Age/Four Waves of Immigration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Studies/Gilded Age/Resources/New Imigrants.md",
+                "file": "American Studies/Gilded Age/Four Waves of Immigration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,17 +292,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5dcb90e3fa58bb6",
+  "active": "ca4b25b023ec317a",
   "lastOpenFiles": [
+    "American Studies/Gilded Age/Resources/New Imigrants.md",
+    "Untitled.md",
+    "American Studies/Gilded Age/Four Waves of Immigration.md",
+    "American Studies/Gilded Age/History of Immigration into the US.md",
     "American Studies/Gilded Age/Resources/Old Immigrants.md",
     "American Studies/Gilded Age/Robber Baron.md",
     "American Studies/Gilded Age/Gilded Age.md",
     "American Studies/Gilded Age/Resources/Robber Barons.md",
     "American Studies/Reconstruction/Reconstruction.md",
-    "American Studies/Gilded Age/Progressive Era.md",
-    "American Studies/Gilded Age/Welfare Capitalism.md",
-    "American Studies/Gilded Age/Muckrakers.md",
-    "American Studies/Gilded Age/Social Darwinism.md",
-    "American Studies/Gilded Age/Populism.md"
+    "American Studies/Gilded Age/Progressive Era.md"
   ]
 }
