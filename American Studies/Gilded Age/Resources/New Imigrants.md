@@ -1,0 +1,3 @@
+Italians
+Poles
+Jews
