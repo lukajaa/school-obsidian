@@ -182,9 +182,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac8ca2445e8f205b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Mutations/Mutations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Studies/Gilded Age/Four Waves of Immigration.md",
+                "file": "Biology/Mutations/Mutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Studies/Gilded Age/Four Waves of Immigration.md",
+                "file": "Biology/Mutations/Mutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,11 +304,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca4b25b023ec317a",
+  "active": "ac8ca2445e8f205b",
   "lastOpenFiles": [
+    "American Studies/Gilded Age/Four Waves of Immigration.md",
     "American Studies/Gilded Age/Resources/New Imigrants.md",
     "Untitled.md",
-    "American Studies/Gilded Age/Four Waves of Immigration.md",
     "American Studies/Gilded Age/History of Immigration into the US.md",
     "American Studies/Gilded Age/Resources/Old Immigrants.md",
     "American Studies/Gilded Age/Robber Baron.md",

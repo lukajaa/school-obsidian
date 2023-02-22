@@ -43,7 +43,7 @@
 	20
 # Transcription
 - What is a codon?
-	A codon is a group of three [[nucleotides]] that are translated into a [[protein]]
+	A codon is a group of three [[Nucleotides]] that are translated into a [[Protein]]
 -  Why triplets of RNA bases?
     Because it was the minimum amount of letters that could have enough possible combinations.
 - What is mRNA?
@@ -79,7 +79,7 @@
 - What is the start point?
 	The start point is the exact [[Nucleotides]] within the promoter where [[RNA]] synthesis actually begins
 - What is a TATA box?
-	It is a series of [[Nucleotides]] that contain TATA and they are a crucial promoter that brings in the [[transcription factor]]
+	It is a series of [[Nucleotides]] that contain TATA and they are a crucial promoter that brings in the [[Transcription Factor]]
 
 ## Termination
 - What is the terminator?
@@ -96,7 +96,7 @@
 - Where does RNA Processing occur?
 	RNA processing occurs in the [[Nucleus]]
 - What is the polyandenylation signal?
-	It is a series of AAUAAA [[Nucleotides]] that is appended to the pre mRNA after the stop [[codons]].
+	It is a series of AAUAAA [[Nucleotides]] that is appended to the pre mRNA after the stop [[Codons]].
 
 - What is the 5' cap?
 	The 5' cap is a modified form of the guanine [[Nucleotides]] added to the 5' side of the RNA
@@ -119,24 +119,24 @@
 	It can help create genetic diversity because it increases the chance of genetic mixing with more [[Nucleotides]] to change.
 # Translation
 - What is a polyribosome?
-	It is where multiple ribosomes spaced apart latch onto the same [[mRNA]] strand and all make the same polypeptide [[protein]]
+	It is where multiple ribosomes spaced apart latch onto the same [[mRNA]] strand and all make the same polypeptide [[Protein]]
 - What is the reading frame?
 	Reading frame is how nucleotide "words" are read. You have to start in the right place and not overlap for it to work correctly.
 - What happens after translation?
-	The polypeptide [[protein]] gets packaged, folded, and then occasionally shipped to other parts of the cell
+	The polypeptide [[Protein]] gets packaged, folded, and then occasionally shipped to other parts of the cell
 ## tRNA
 - What is Aminoacyl-tRNA synthetase?
-	It is an enzyme that matches the correct [[amino acid]] to a [[tRNA]] that has the proper anticodon
+	It is an enzyme that matches the correct [[Amino Acid]] to a [[tRNA]] that has the proper anticodon
 - How does it do its task?
-	Its active sites bind for one specific [[tRNA]] and [[amino acid]]
+	Its active sites bind for one specific [[tRNA]] and [[Amino Acid]]
 - How many types are there?
-	20, one for each [[amino acid]]
+	20, one for each [[Amino Acid]]
 - What is tRNA?
 	tRNA is a type of [[RNA]] folded in on itself with an anticodon that detects for a certain [[Codons]] to add to a polypeptide [[Protein]] chain. They each hold one [[Amino Acid]]
 - What is the nucleotide make up of tRNA?
-	It is made of around 80 [[nucleotides]] with pairs that can bond to each other so that it folds into itself.
+	It is made of around 80 [[Nucleotides]] with pairs that can bond to each other so that it folds into itself.
 - How is an anticodon coded?
-	It is coded as the opposite of the [[mRNA]] codon it is matching to so that it can latch onto it in the [[ribosome]]
+	It is coded as the opposite of the [[mRNA]] codon it is matching to so that it can latch onto it in the [[Ribosome]]
 - How is tRNA made?
 	It comes from [[DNA]] just like [[mRNA]], but it serves a different purpose
 ## Ribosomes
@@ -158,19 +158,19 @@
 	It is where the [[tRNA]] exits
 ## Initionation:
 - What is initiation?
-	[[mRNA]] binds to the smaller unit of the [[ribosome]], then [[tRNA]](always the MET [[amino acid]]) binds and then the large unit  of the [[ribosome]] comes down onto it. 
+	[[mRNA]] binds to the smaller unit of the [[Ribosome]], then [[tRNA]](always the MET [[Amino Acid]]) binds and then the large unit  of the [[Ribosome]] comes down onto it. 
 - What resources does initiation require?
 	[[GTP]] and initiation factors
 
 ## Elongation
 - What is the cycle of translation?
-	A [[tRNA]] binds to the A site of the [[ribosome]], then it adds its polypeptide to the chain (sort of diagonally), then it shoves the tRNA in the P site into the E site
+	A [[tRNA]] binds to the A site of the [[Ribosome]], then it adds its polypeptide to the chain (sort of diagonally), then it shoves the tRNA in the P site into the E site
 
 ## Termination
 - How does elongation terminate?
 	If a stop codon is detected, a release factor is input where the [[tRNA]] would have gone and water is introduced which hydrolyzes the translation unit
 - What are post-translational modifications?
-	They are the addition of other groups (sugars, lipids, phosphates) to the polypeptide to change its function as well as cutting out of certain [[amino acid]]s
+	They are the addition of other groups (sugars, lipids, phosphates) to the polypeptide to change its function as well as cutting out of certain [[Amino Acid]]s
 # General
 - What is a ribozyme?
 	[[RNA]] molecules that can function as [[Enzymes]]
@@ -180,8 +180,8 @@
 	3. It can bind with other [[RNA]] and [[DNA]] molecules
 		Such as in spliceosomes in [[RNA Splicing]]
 - What is rRNA?
-	It is a type of [[RNA]] found in [[ribosome]]s and it is the most abundant, it helps the structure of ribosomes
+	It is a type of [[RNA]] found in [[Ribosome]]s and it is the most abundant, it helps the structure of ribosomes
 - What is wobble?
-	It is the fact that the last part of the [[codons]] is flexible when it comes to pairing
+	It is the fact that the last part of the [[Codons]] is flexible when it comes to pairing
 - What effect does wobble have?
-	It means that 20 types of [[tRNA]] can bind to the 61 possible [[codons]] of [[mRNA]]
+	It means that 20 types of [[tRNA]] can bind to the 61 possible [[Codons]] of [[mRNA]]

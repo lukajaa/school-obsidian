@@ -14,7 +14,7 @@
 
 ## Steps
 - What is the first step of transcription?
-	Initiation where [[RNA Polymerase]] attaches to the [[DNA]]'s [[promoter]] and begins to split it
+	Initiation where [[RNA Polymerase]] attaches to the [[DNA]]'s [[Promoter]] and begins to split it
 - What is the second step of transcription?
 	Elongation where the [[RNA]] strand is elongated
 - What is the third step of transcription?

@@ -24,8 +24,8 @@
   "American Studies": "IbFlag",
   "Biology": "RiMicroscopeLine",
   "Calculus": "SiWolframmathematica",
-  "Biology/Genetics": "RiFingerprint-2-line",
   "Statistics": "IbChartBar",
   "Excalidraw": "IbPencil",
-  "Asian American Literature": "RiAncientGateLine"
+  "Asian American Literature": "RiAncientGateLine",
+  "Biology/Central Dogma": "RiFingerprint-2-line"
 }
