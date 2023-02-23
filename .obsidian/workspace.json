@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Distribution.md",
+                "file": "Asian American Literature/Economic Effects of Japanese Internment.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Distribution.md",
+                "file": "Asian American Literature/Economic Effects of Japanese Internment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Distribution.md",
+                "file": "Asian American Literature/Economic Effects of Japanese Internment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +129,8 @@
   },
   "active": "ca4b25b023ec317a",
   "lastOpenFiles": [
-    "Statistics/Variable.md",
     "Statistics/Distribution.md",
+    "Statistics/Variable.md",
     "Biology/Central Dogma/Topics/Wobble.md",
     "Biology/Central Dogma/Topics/tRNA.md",
     "Biology/Central Dogma/Topics/Translation.md",
