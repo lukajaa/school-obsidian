@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95d084e85a19e0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Null Hypothesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbfdf1ae99aff7ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alternative Hypothesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
+                "file": "Alternative Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
+                "file": "Alternative Hypothesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +152,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d889e94f6f472f6f",
+  "active": "fbfdf1ae99aff7ce",
   "lastOpenFiles": [
-    "American Studies/Capitalism, Labor, and Immigration/Source Notes",
+    "Statistics/Null Hypothesis.md",
+    "Alternative Hypothesis.md",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
+    "American Studies/Capitalism, Labor, and Immigration/Source Notes",
     "Asian American Literature/Economic Effects of Japanese Internment.md",
     "Statistics/Distribution.md",
     "Statistics/Variable.md",
