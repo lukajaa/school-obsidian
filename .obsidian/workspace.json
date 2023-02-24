@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6768b25ea0bea2",
+        "id": "97f8e3952fd4233b",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4b25b023ec317a",
+            "id": "d889e94f6f472f6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asian American Literature/Economic Effects of Japanese Internment.md",
+                "file": "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asian American Literature/Economic Effects of Japanese Internment.md",
+                "file": "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asian American Literature/Economic Effects of Japanese Internment.md",
+                "file": "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +127,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca4b25b023ec317a",
+  "active": "d889e94f6f472f6f",
   "lastOpenFiles": [
+    "American Studies/Capitalism, Labor, and Immigration/Source Notes",
+    "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
+    "Asian American Literature/Economic Effects of Japanese Internment.md",
     "Statistics/Distribution.md",
     "Statistics/Variable.md",
     "Biology/Central Dogma/Topics/Wobble.md",
