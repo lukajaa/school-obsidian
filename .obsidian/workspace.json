@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "97f8e3952fd4233b",
+        "id": "06bbb86bfb522308",
         "type": "tabs",
         "children": [
           {
-            "id": "d889e94f6f472f6f",
+            "id": "703c16948a5fa45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
+                "file": "Biology/Gene Regulation/Operon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95d084e85a19e0e9",
+            "id": "55bd252c6a76bb43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Null Hypothesis.md",
+                "file": "Biology/Gene Regulation/Repressor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbfdf1ae99aff7ce",
+            "id": "1454bc1722ea3b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Hypothesis.md",
+                "file": "Biology/Gene Regulation/Corepressor.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alternative Hypothesis.md",
+                "file": "Biology/Gene Regulation/Corepressor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alternative Hypothesis.md",
+                "file": "Biology/Gene Regulation/Corepressor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,10 +152,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbfdf1ae99aff7ce",
+  "active": "1454bc1722ea3b2c",
   "lastOpenFiles": [
+    "Biology/Gene Regulation/Repressor.md",
+    "Biology/Gene Regulation/Corepressor.md",
+    "Biology/Gene Regulation/Regulatory Gene.md",
+    "Biology/Gene Regulation/Operon.md",
+    "Biology/Gene Regulation/Operator.md",
+    "Statistics/Six Steps/Study.md",
+    "Biology/Central Dogma/Topics/Transcription Unit.md",
+    "Biology/Mutations/Mutations.md",
+    "Biology/Gene Regulation",
+    "Statistics/Alternative Hypothesis.md",
     "Statistics/Null Hypothesis.md",
-    "Alternative Hypothesis.md",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes/\"America's Forgotten\" Notes.md",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes",
     "Asian American Literature/Economic Effects of Japanese Internment.md",
@@ -164,7 +173,6 @@
     "Biology/Central Dogma/Topics/Wobble.md",
     "Biology/Central Dogma/Topics/tRNA.md",
     "Biology/Central Dogma/Topics/Translation.md",
-    "Biology/Central Dogma/Topics/Transcription Unit.md",
     "Biology/Central Dogma/Topics/Transcription Factor.md",
     "Biology/Central Dogma/Topics/Transcription.md",
     "Biology/Central Dogma/Topics/Terminator.md",
