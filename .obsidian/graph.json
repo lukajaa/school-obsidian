@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:",
+  "search": "path: biolo",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6789696538174583,
+  "scale": 1.0652970994730804,
   "close": false
 }

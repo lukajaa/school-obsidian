@@ -8,55 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703c16948a5fa45f",
+            "id": "c4140bb45792b491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Gene Regulation/Operon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55bd252c6a76bb43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Gene Regulation/Repressor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1454bc1722ea3b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Gene Regulation/Repressor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a3b10518ca78454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Gene Regulation/Inducer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Gene Regulation/Inducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Gene Regulation/Inducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,15 +121,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a3b10518ca78454",
+  "active": "c4140bb45792b491",
   "lastOpenFiles": [
+    "Biology/Gene Regulation/Activator.md",
+    "Biology/Gene Regulation/Gene Regulation.md",
+    "Biology/Gene Regulation/Regulatory Gene.md",
+    "Biology/Central Dogma/Topics/Enzymes.md",
+    "Biology/Gene Regulation/Repressible Operon.md",
+    "Biology/Gene Regulation/Inducible Operon.md",
     "Biology/Gene Regulation/Repressor.md",
     "Biology/Gene Regulation/Inducer.md",
-    "Biology/Gene Regulation/Inducible Operon.md",
     "Biology/Gene Regulation/Corepressor.md",
     "Biology/Gene Regulation/Operon.md",
-    "Biology/Gene Regulation/Repressible Operon.md",
-    "Biology/Gene Regulation/Regulatory Gene.md",
     "Biology/Gene Regulation/Operator.md",
     "Statistics/Six Steps/Study.md",
     "Biology/Central Dogma/Topics/Transcription Unit.md",
@@ -190,7 +150,6 @@
     "Biology/Central Dogma/Topics/Translation.md",
     "Biology/Central Dogma/Topics/Transcription Factor.md",
     "Biology/Central Dogma/Topics/Transcription.md",
-    "Biology/Central Dogma/Topics/Terminator.md",
-    "Biology/Central Dogma/Topics/rRNA.md"
+    "Biology/Central Dogma/Topics/Terminator.md"
   ]
 }
