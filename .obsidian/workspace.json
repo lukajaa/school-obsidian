@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Gene Regulation/Activator.md",
+                "file": "Biology/Gene Regulation/Operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Gene Regulation/Activator.md",
+                "file": "Biology/Gene Regulation/Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Gene Regulation/Activator.md",
+                "file": "Biology/Gene Regulation/Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,13 +178,13 @@
   },
   "active": "3fa157cca4165b7d",
   "lastOpenFiles": [
+    "Biology/Gene Regulation/Activator.md",
     "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
     "American Studies/Capitalism, Labor, and Immigration/Chinese Exclusion Act.md",
     "American Studies/Capitalism, Labor, and Immigration/Thind v. United States.md",
     "American Studies/Capitalism, Labor, and Immigration/Ozawa V. United States.md",
     "American Studies/Reconstruction + Civil War/Plessy vs. Ferguson.md",
     "American Studies/Reconstruction + Civil War/Pless.md",
-    "Biology/Gene Regulation/Activator.md",
     "Biology/Gene Regulation/Gene Regulation.md",
     "Biology/Gene Regulation/Regulatory Gene.md",
     "Biology/Central Dogma/Topics/Enzymes.md",
