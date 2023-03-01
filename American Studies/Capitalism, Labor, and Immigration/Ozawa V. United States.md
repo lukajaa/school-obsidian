@@ -1,0 +1,3 @@
+- What was the ruling in this case?
+	The ruling was that Asian people could not be citizens because they were not white
+> 	The appellant in the case now under consideration, however, is clearly of a race which is not Caucasian, and therefore belong entirely outside the zone on the negative side . . . These decisions are sustained by numerous scientific authorities . . . We think these decisions are right, and so hold.”

@@ -11,11 +11,64 @@
             "id": "c4140bb45792b491",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Reconstruction + Civil War/Plessy vs. Ferguson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d0cd916290993d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Capitalism, Labor, and Immigration/Ozawa V. United States.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f089b8e6acbf9289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Capitalism, Labor, and Immigration/Thind v. United States.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "205f904bf0f8f9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fa157cca4165b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Gene Regulation/Activator.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/Gene Regulation/Activator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/Gene Regulation/Activator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +176,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4140bb45792b491",
+  "active": "3fa157cca4165b7d",
   "lastOpenFiles": [
+    "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
+    "American Studies/Capitalism, Labor, and Immigration/Chinese Exclusion Act.md",
+    "American Studies/Capitalism, Labor, and Immigration/Thind v. United States.md",
+    "American Studies/Capitalism, Labor, and Immigration/Ozawa V. United States.md",
+    "American Studies/Reconstruction + Civil War/Plessy vs. Ferguson.md",
+    "American Studies/Reconstruction + Civil War/Pless.md",
     "Biology/Gene Regulation/Activator.md",
     "Biology/Gene Regulation/Gene Regulation.md",
     "Biology/Gene Regulation/Regulatory Gene.md",
@@ -144,12 +205,6 @@
     "American Studies/Capitalism, Labor, and Immigration/Source Notes",
     "Asian American Literature/Economic Effects of Japanese Internment.md",
     "Statistics/Distribution.md",
-    "Statistics/Variable.md",
-    "Biology/Central Dogma/Topics/Wobble.md",
-    "Biology/Central Dogma/Topics/tRNA.md",
-    "Biology/Central Dogma/Topics/Translation.md",
-    "Biology/Central Dogma/Topics/Transcription Factor.md",
-    "Biology/Central Dogma/Topics/Transcription.md",
-    "Biology/Central Dogma/Topics/Terminator.md"
+    "Statistics/Variable.md"
   ]
 }
