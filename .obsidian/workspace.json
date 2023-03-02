@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c83b75816feb8ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "390e53963d8feb9c",
+  "active": "2c83b75816feb8ff",
   "lastOpenFiles": [
     "Biology/Gene Regulation/Operator.md",
     "LINKS.md",
