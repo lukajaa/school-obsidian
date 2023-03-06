@@ -1,0 +1,2 @@
+- What is transformation?
+	Transformation is the process in which a [[DNA]] is placed onto a [[plasmid]] and is then placed into a bacteria in hopes that it will survive and reproduce with the new DNA.
