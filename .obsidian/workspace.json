@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "275ad3de3df14963",
+            "id": "0b1f89ef2adc4e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Gene Regulation/Transformation.md",
+                "file": "Statistics/Confidence Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Gene Regulation/Transformation.md",
+                "file": "Statistics/Confidence Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Gene Regulation/Transformation.md",
+                "file": "Statistics/Confidence Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +127,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "275ad3de3df14963",
+  "active": "0b1f89ef2adc4e13",
   "lastOpenFiles": [
+    "Statistics/T Distribution.md",
+    "Statistics/Confidence Intervals.md",
+    "Statistics/Standard Error.md",
+    "Statistics/Z-score.md",
+    "Statistics/Standard Deviation.md",
+    "Biology/Gene Regulation/Transformation.md",
     "Biology/Gene Regulation/Inducible Operon.md",
     "Biology/Gene Regulation/Repressible Operon.md",
     "Biology/Central Dogma/Topics/Genes.md",
@@ -137,7 +143,6 @@
     "American Studies/Capitalism, Labor, and Immigration/Ozawa V. United States.md",
     "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
     "American Studies/Capitalism, Labor, and Immigration/History of Immigration into the US.md",
-    "Biology/Gene Regulation/Transformation.md",
     "Biology/Gene Regulation/Plasmid.md",
     "Biology/Gene Regulation/CAP.md",
     "Biology/Gene Regulation/cAMP.md",
@@ -150,11 +155,6 @@
     "Biology/Gene Regulation/Operon.md",
     "Biology/Gene Regulation/Operator.md",
     "Biology/Gene Regulation/Gene Regulation.md",
-    "LINKS.md",
-    "American Studies/Capitalism, Labor, and Immigration/Chinese Exclusion Act.md",
-    "American Studies/Reconstruction + Civil War/Plessy vs. Ferguson.md",
-    "American Studies/Reconstruction + Civil War/Pless.md",
-    "Biology/Central Dogma/Topics/Enzymes.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
