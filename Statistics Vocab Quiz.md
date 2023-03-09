@@ -1,4 +1,4 @@
-==- 3S Strategy==
+- 3S Strategy
 	Statistic, simulate, and strength of evidence. A way to disprove null hypothesis
 - Alternative Hypothesis
 	The not by chance / some outside force is affecting your experiment
@@ -6,9 +6,9 @@
 	A graphical display of a distribution of a categorial variable
 - Binary variable
 	Categorical variable with two outcomes
-==- Central Limit Theorem==
+- Central Limit Theorem
 	A mathematical prediction of behavior of the null distribution when certain validity conditions are met
-==- Chance Models==
+- Chance Models
 	A real / computerized process to generate data according to certain conditions
 - Expected number of failures
 	How many failures we expect from a given sample n(1 - pi)
@@ -40,24 +40,24 @@
 	The set of observed values
 - Sample Size
 	The number of observational units
-==- Sampling distribution of a sample proportion==
+- Sampling distribution of a sample proportion
 	With the same sample size n, the theoretical distribution given the probability parameter
-==- Significance Level==
+- Significance Level
 	The value used as a criteria for how small a p-value needs to be to reject the null hypothesis
 - Standardize
 	To standardize an observation compute the distance between mean and observation and divide by the standard deviation 
 	(p hat - mean) / sd
 - Statistic
 	A number computed from the sample
-==- Statistically Significant==
+- Statistically Significant
 	Unlikely to occur randomly
 - Strength
 	How much evidence there is against the null hypothesis
-- ==Subjects==
+- Subjects
 	Study participants that are human
-==- Test of Significance==
+- Test of Significance
 	A procedure for measuring strength of evidence against the null hypothesis
-==- Theory-based Approach==
+- Theory-based Approach
 	Mathematical approach which predicts the shape, center and variability of the null distribution instead of simulation
 - Two sided test
 	Estimates p-value by looking at how extreme the statistic is on either side
