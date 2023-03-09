@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dbeef091b5c470f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics Vocab Quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Confidence Intervals.md",
+                "file": "Statistics Vocab Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Confidence Intervals.md",
+                "file": "Statistics Vocab Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +141,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b1f89ef2adc4e13",
+  "active": "6dbeef091b5c470f",
   "lastOpenFiles": [
-    "Statistics/T Distribution.md",
+    "Study Guides",
     "Statistics/Confidence Intervals.md",
+    "Statistics Vocab Quiz.md",
+    "Statistics/T Distribution.md",
     "Statistics/Standard Error.md",
     "Statistics/Z-score.md",
     "Statistics/Standard Deviation.md",
@@ -153,8 +169,6 @@
     "Biology/Gene Regulation/Repressor.md",
     "Biology/Gene Regulation/Regulatory Gene.md",
     "Biology/Gene Regulation/Operon.md",
-    "Biology/Gene Regulation/Operator.md",
-    "Biology/Gene Regulation/Gene Regulation.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
