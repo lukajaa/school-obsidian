@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d99a999807fa5d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Women/Women Rights Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8c5520d3a3d7a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Women/Seneca Falls Convention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "798b995dabc212ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Women/Women Rights Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e218699c47a6cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Women/Women Rights Movement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Confidence Intervals.md",
+                "file": "American Studies/Women/Women Rights Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Confidence Intervals.md",
+                "file": "American Studies/Women/Women Rights Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +176,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6dbeef091b5c470f",
+  "active": "5e218699c47a6cb2",
   "lastOpenFiles": [
+    "American Studies/Women/Jane Adams.md",
+    "American Studies/Women/Women Rights Movement.md",
+    "American Studies/Women/Temperance.md",
+    "American Studies/Women/Susan B. Anthony.md",
+    "American Studies/Women/Abigail Adams.md",
+    "American Studies/Women/Elizabeth Stanton.md",
+    "American Studies/Women/women.md",
+    "American Studies/Women/Seneca Falls Convention.md",
+    "American Studies/Women/Lupricia Mott.md",
+    "Excalidraw/Drawing 2023-03-13 09.57.30.excalidraw.md",
+    "American Studies/Women",
+    "Statistics/Confidence Intervals.md",
     "Statistics Vocab Quiz.md",
     "Study Guides",
-    "Statistics/Confidence Intervals.md",
     "Statistics/T Distribution.md",
     "Statistics/Standard Error.md",
     "Statistics/Z-score.md",
@@ -146,15 +206,6 @@
     "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
     "American Studies/Capitalism, Labor, and Immigration/History of Immigration into the US.md",
     "Biology/Gene Regulation/Plasmid.md",
-    "Biology/Gene Regulation/CAP.md",
-    "Biology/Gene Regulation/cAMP.md",
-    "Biology/Gene Regulation/Activator.md",
-    "Biology/Gene Regulation/CAP Site.md",
-    "Biology/Gene Regulation/Inducer.md",
-    "Biology/Gene Regulation/Corepressor.md",
-    "Biology/Gene Regulation/Repressor.md",
-    "Biology/Gene Regulation/Regulatory Gene.md",
-    "Biology/Gene Regulation/Operon.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
