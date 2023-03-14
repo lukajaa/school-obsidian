@@ -13,3 +13,9 @@
 	1919, it guaranteed voting rights for women
 - How did WWII help women's rights?
 	Because a lot of men had to go to war, women could work in factories
+- How did the civil rights movement affect the womens rights movement?
+	It increased the number of female activists and created a sense of solidarity between women and other oppressed peoples
+- What happened during the 1980s?
+	There seemed to be a glass ceiling for women. Many important women left their jobs
+- What were the clarence thomas hearings?
+	Anita Hill accused Clarence Thomas of sexual harrassment and it spurred many women to join politics.
