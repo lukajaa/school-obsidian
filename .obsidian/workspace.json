@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "739a991222c5c371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Women/WAVES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Four pillars/Causation.md",
+                "file": "American Studies/Women/WAVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Four pillars/Causation.md",
+                "file": "American Studies/Women/WAVES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,17 +188,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e218699c47a6cb2",
+  "active": "739a991222c5c371",
   "lastOpenFiles": [
+    "American Studies/Women/Susan B. Anthony.md",
+    "American Studies/Women/Seneca Falls Convention.md",
+    "American Studies/Women/WAVES.md",
+    "American Studies/Women/Temperance.md",
+    "American Studies/Women/Lucretia Mott.md",
+    "Statistics/Four pillars/Causation.md",
     "American Studies/Women/Women Rights Movement.md",
     "American Studies/Women/Jane Adams.md",
-    "American Studies/Women/Temperance.md",
-    "American Studies/Women/Susan B. Anthony.md",
     "American Studies/Women/Abigail Adams.md",
     "American Studies/Women/Elizabeth Stanton.md",
     "American Studies/Women/women.md",
-    "American Studies/Women/Seneca Falls Convention.md",
-    "American Studies/Women/Lupricia Mott.md",
     "Excalidraw/Drawing 2023-03-13 09.57.30.excalidraw.md",
     "American Studies/Women",
     "Statistics/Confidence Intervals.md",
@@ -204,8 +218,6 @@
     "American Studies/Capitalism, Labor, and Immigration/United States v. Wong Kim Ark.md",
     "American Studies/Capitalism, Labor, and Immigration/Ozawa V. United States.md",
     "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
-    "American Studies/Capitalism, Labor, and Immigration/History of Immigration into the US.md",
-    "Biology/Gene Regulation/Plasmid.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]

@@ -3,7 +3,7 @@
 	[[Abigail Adams]]
 # 19th Century
 - Who were some key players in the 1840s
-	[[Elizabeth Stanton]], [[Lupricia Mott]], and [[Susan B. Anthony]]
+	[[Elizabeth Stanton]], [[Lucretia Mott]], and [[Susan B. Anthony]]
 - What was a parallel movement during this time?
 	[[Temperance]]
 - What happened after women gained the right to work?
