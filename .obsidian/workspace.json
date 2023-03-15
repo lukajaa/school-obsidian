@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "American Studies/Women/Women Rights Movement.md",
+                "file": "Biology/Central Dogma/Topics/RNA Splicing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f1e0029f51b705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bio Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Studies/Women/Women Rights Movement.md",
+                "file": "Bio Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Studies/Women/Women Rights Movement.md",
+                "file": "Bio Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,15 +200,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "739a991222c5c371",
+  "active": "75f1e0029f51b705",
   "lastOpenFiles": [
+    "Biology/Central Dogma/Topics/RNA Splicing.md",
+    "Bio Project.md",
+    "American Studies/Women/Women Rights Movement.md",
     "American Studies/Women/Seneca Falls Convention.md",
     "American Studies/Women/WAVES.md",
     "American Studies/Women/Susan B. Anthony.md",
     "American Studies/Women/Temperance.md",
     "American Studies/Women/Lucretia Mott.md",
     "Statistics/Four pillars/Causation.md",
-    "American Studies/Women/Women Rights Movement.md",
     "American Studies/Women/Jane Adams.md",
     "American Studies/Women/Abigail Adams.md",
     "American Studies/Women/Elizabeth Stanton.md",
@@ -216,8 +230,6 @@
     "Biology/Central Dogma/Topics/Genes.md",
     "American Studies/Capitalism, Labor, and Immigration/Thind v. United States.md",
     "American Studies/Capitalism, Labor, and Immigration/United States v. Wong Kim Ark.md",
-    "American Studies/Capitalism, Labor, and Immigration/Ozawa V. United States.md",
-    "American Studies/Capitalism, Labor, and Immigration/Lum v. Rice.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
