@@ -1,12 +1,15 @@
 Figure 18.13 is useful as an explanation of how exons work
 Figure 18.14 shows how slective degradation works
 
-There are RNA molecules that can block expression of mRNA by degeading them
+- What is RNA splicing?
+	[[RNA]] splicing is the process of cutting out the [[Introns]] from the pre-mRNA and binding together the [[Exons]] to create a continuous code
+- How does RNA splicing work?
+	snRNPs (small nuclear ribonucleoproteins) recognize [[Nucleotides]] sequences at the ends of [[Introns]]. They combine with each other and other [[Protein]]s to create a **spliceosome** which removes and degreades the [[Introns]] and binds together the [[Exons]].
+- Why do spliceosomes have [[RNA]]?
+	Because they can latch onto certain parts of the pre-[[mRNA]] cuz of nucleotide binding
 
-The initation of translation can be a point where gene regulation can occur
-- Lacking poly a tails at first, adenine cna be added which allows for translation
-
-Protein post-translational processing
-- Adding functional groups and transporting the proteins to different places changes their function
-
-How long proteins last in the cell are also regulated by proteasomes which can selectively degrade things.
+## Alternative RNA splicing
+- What is alternative RNA splicing?
+	Different segments of the pre mRNA can be treated as [[Exons]] meaning that multiple types of [[Protein]]s can be made from the same gene
+- What are some effects of alternative RNA splicing?
+	It can help create genetic diversity because it increases the chance of genetic mixing with more [[Nucleotides]] to change.

@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dbeef091b5c470f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Confidence Intervals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d99a999807fa5d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "American Studies/Women/Women Rights Movement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8c5520d3a3d7a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "American Studies/Women/Seneca Falls Convention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "798b995dabc212ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "American Studies/Women/Women Rights Movement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e218699c47a6cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Four pillars/Causation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "739a991222c5c371",
             "type": "leaf",
             "state": {
@@ -90,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0562eb931a8564b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bio Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75f1e0029f51b705",
+  "active": "0562eb931a8564b6",
   "lastOpenFiles": [
-    "Biology/Central Dogma/Topics/RNA Splicing.md",
     "Bio Project.md",
+    "Biology/Central Dogma/Topics/RNA Splicing.md",
     "American Studies/Women/Women Rights Movement.md",
     "American Studies/Women/Seneca Falls Convention.md",
     "American Studies/Women/WAVES.md",
