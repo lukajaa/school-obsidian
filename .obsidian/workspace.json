@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "American Studies/Harlem Renaissance.md",
+                "file": "Bio Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Studies/Harlem Renaissance.md",
+                "file": "Bio Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Studies/Harlem Renaissance.md",
+                "file": "Bio Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,9 @@
   },
   "active": "668c226e13c6b314",
   "lastOpenFiles": [
-    "American Studies/Great Migration.md",
+    "Bio Test 1 Study Guide.md",
     "American Studies/Harlem Renaissance.md",
+    "American Studies/Great Migration.md",
     "Bio Project.md",
     "Biology/Central Dogma/Topics/RNA Splicing.md",
     "American Studies/Women/Women Rights Movement.md",
@@ -193,7 +194,6 @@
     "Biology/Gene Regulation/Transformation.md",
     "Biology/Gene Regulation/Inducible Operon.md",
     "Biology/Gene Regulation/Repressible Operon.md",
-    "Biology/Central Dogma/Topics/Genes.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
