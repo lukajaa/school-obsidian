@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16dffe34c338fbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ned Cobb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eb7386e99b989f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Crisis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -150,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB du Bois.md",
+                "file": "The Crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB du Bois.md",
+                "file": "The Crisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +224,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7556df1f7c2edc94",
+  "active": "7eb7386e99b989f8",
   "lastOpenFiles": [
-    "NAACP.md",
+    "Ned Cobb.md",
+    "The Crisis.md",
     "WEB du Bois.md",
+    "NAACP.md",
     "Tulsa Massacre.md",
     "Walter White.md",
     "American Studies/Women/John D. Rockefeller.md",
@@ -227,9 +253,7 @@
     "Excalidraw/Drawing 2023-03-13 09.57.30.excalidraw.md",
     "American Studies/Women",
     "Statistics/Confidence Intervals.md",
-    "Statistics Vocab Quiz.md",
     "Study Guides",
-    "Statistics/T Distribution.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
