@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5cddfbe76fe4596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "American Studies/Women/John D. Rockefeller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76b0ea051804e925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walter White.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7556df1f7c2edc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB du Bois.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio Project.md",
+                "file": "WEB du Bois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bio Project.md",
+                "file": "WEB du Bois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,12 +200,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "668c226e13c6b314",
+  "active": "7556df1f7c2edc94",
   "lastOpenFiles": [
+    "NAACP.md",
+    "WEB du Bois.md",
+    "Tulsa Massacre.md",
+    "Walter White.md",
+    "American Studies/Women/John D. Rockefeller.md",
+    "American Studies/Women/Ida Tarbell.md",
+    "Bio Project.md",
     "Bio Test 1 Study Guide.md",
     "American Studies/Harlem Renaissance.md",
     "American Studies/Great Migration.md",
-    "Bio Project.md",
     "Biology/Central Dogma/Topics/RNA Splicing.md",
     "American Studies/Women/Women Rights Movement.md",
     "American Studies/Women/Seneca Falls Convention.md",
@@ -188,12 +230,6 @@
     "Statistics Vocab Quiz.md",
     "Study Guides",
     "Statistics/T Distribution.md",
-    "Statistics/Standard Error.md",
-    "Statistics/Z-score.md",
-    "Statistics/Standard Deviation.md",
-    "Biology/Gene Regulation/Transformation.md",
-    "Biology/Gene Regulation/Inducible Operon.md",
-    "Biology/Gene Regulation/Repressible Operon.md",
     "Biology/Gene Regulation",
     "American Studies/Capitalism, Labor, and Immigration/Source Notes"
   ]
