@@ -31,3 +31,22 @@
 		- Deacons for defense and justice had to step in to protect the marchers
 - You can't have power without violence
 - State troopers began to attack them
+
+[[Vietnam War]]
+- There was a connection between the civil rights movement and the anti war movement but many were afraid to against the goernment's sayings
+- 1967 -- King tells [[Lyndon B. Johnson]] that he is against the war
+	- This was received very badly by all -- republicans, president Johnson, NAACP
+	- Southern Christian Leadership Conference withdrew much of their support
+- National welfare rights organization -- helped and raise awareness of poverty in the South
+	- "Poor people campaign" -- Marks mississippi -> DC
+- 1968 -- TET offensive -- [[Lyndon B. Johnson]]'s approval plummted
+	- Robert Kennedy joined the democratic primary, eugene something, third party sgereation can didate gained popularity
+- Tenessee sanitary workers union, two workers died without compensation so the black woerkes went on strike
+	- Mayor Loeb refused to recognize the racial problem
+	- Large riot in memphis cast doubts on MLK and FBI ignited these fears as well
+- 1968, april 4th, He is shot
+	- Many riots hpapened all over the country
+	- % weeks later they came to DC the poor people campaign
+- Resurrection city was a makeshift area built close to the DC mall
+	- The rain washed everything away
+- June 6, 1968, robert kennedy is assassinated
