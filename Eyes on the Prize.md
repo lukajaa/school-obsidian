@@ -1,0 +1,33 @@
+- There was a lot of resentment by white people
+	- A gain for blacks was seen as a loss for whites
+- The Nation of Islam
+	- Religious organization that supported black pride
+	- [[Elijah Muhammad ]]Reeducated black people and helped rehabilitate people
+		- One such person was [[Malcolm X]]
+	- The news called it a gospel of hate
+		- A black journalist went anf filmed Louis X "trying" white people for their crimes
+- Malcolm X
+	- Only non violent with people who were non violent
+	- Used to demonize black people
+	- When he made fun of JFK's death he was sort of exiled
+	- Black nationalist organization
+	- Give MLK what he wants, or he'll get it by force
+	- His house got bombed
+		- Claimed that it was Elijah Muhammad who bombed him
+	- Malcolm X was assassinated
+		- A western funeral and a muslim memorial service
+- [[Martin Luther King Jr.]]
+	- Student nonviolent coordinating committee
+	- Preached non violence
+- Lowndes County freedom organization
+	- Black panther symbol
+	- Resistance to the voting rights act was still strong
+- [[Stokely Carmichael]]
+	- Opposed to MLK's non violence 
+	- Helped recruit a lot of voters
+- James Meredith was shot on his march down Mississippi
+	- MLK continued the march, registered people along the way
+	- Not many state troopers were given
+		- Deacons for defense and justice had to step in to protect the marchers
+- You can't have power without violence
+- State troopers began to attack them
