@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eyes on the Prize.md",
+                "file": "Biology/Gene Regulation/Activator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad53b3b5d561f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO TEST 2 Study Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eyes on the Prize.md",
+                "file": "BIO TEST 2 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eyes on the Prize.md",
+                "file": "BIO TEST 2 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,34 +140,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a02f429d2566d9a",
+  "active": "9ad53b3b5d561f5a",
   "lastOpenFiles": [
-    "The Crisis.md",
+    "BIO TEST 2 Study Guide.html",
+    "Biology/Gene Regulation/Transformation.md",
+    "BIO TEST 2 Study Guide.md",
+    "Biology/Gene Regulation/Repressor.md",
+    "Biology/Gene Regulation/Repressible Operon.md",
+    "Biology/Gene Regulation/Regulatory Gene.md",
     "Eyes on the Prize.md",
+    "Bio Project.md",
+    "Biology/Gene Regulation/Plasmid.md",
+    "Biology/Gene Regulation/Operon.md",
+    "Biology/Gene Regulation/Operator.md",
+    "Biology/Gene Regulation/Inducible Operon.md",
+    "Biology/Gene Regulation/Inducer.md",
+    "Biology/Gene Regulation/Gene Regulation.md",
+    "Biology/Gene Regulation/Corepressor.md",
+    "Biology/Gene Regulation/CAP Site.md",
+    "Biology/Gene Regulation/CAP.md",
+    "Biology/Gene Regulation/cAMP.md",
+    "Biology/Gene Regulation/Activator.md",
+    "The Crisis.md",
     "Ned Cobb.md",
     "WEB du Bois.md",
     "NAACP.md",
     "Tulsa Massacre.md",
     "Walter White.md",
     "American Studies/Women/John D. Rockefeller.md",
-    "American Studies/Women/Ida Tarbell.md",
-    "Bio Project.md",
-    "Bio Test 1 Study Guide.md",
-    "American Studies/Harlem Renaissance.md",
-    "American Studies/Great Migration.md",
-    "Biology/Central Dogma/Topics/RNA Splicing.md",
-    "American Studies/Women/Women Rights Movement.md",
-    "American Studies/Women/Seneca Falls Convention.md",
-    "American Studies/Women/WAVES.md",
-    "American Studies/Women/Susan B. Anthony.md",
-    "American Studies/Women/Temperance.md",
-    "American Studies/Women/Lucretia Mott.md",
-    "Statistics/Four pillars/Causation.md",
-    "American Studies/Women/Jane Adams.md",
-    "American Studies/Women/Abigail Adams.md",
-    "American Studies/Women/Elizabeth Stanton.md",
-    "American Studies/Women/women.md",
-    "Excalidraw/Drawing 2023-03-13 09.57.30.excalidraw.md",
     "American Studies/Women",
     "Study Guides",
     "Biology/Gene Regulation",
