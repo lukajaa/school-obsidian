@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a02f429d2566d9a",
+            "id": "08efe6f55bf229ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Gene Regulation/Activator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad53b3b5d561f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO TEST 2 Study Guide.md",
+                "file": "Study Guides/BIO TEST 2 Study Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO TEST 2 Study Guide.md",
+                "file": "Study Guides/BIO TEST 2 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO TEST 2 Study Guide.md",
+                "file": "Study Guides/BIO TEST 2 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,16 +127,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ad53b3b5d561f5a",
+  "active": "08efe6f55bf229ee",
   "lastOpenFiles": [
+    "Biology/Ubiquitin.md",
+    "Study Guides/BIO TEST 2 Study Guide.md",
+    "Biology/Deadenylation.md",
+    "Biology/miRNA.md",
+    "Biology/Central Dogma/Topics/Transcription Factor.md",
+    "Biology/Methylation.md",
+    "Biology/Acetylation.md",
+    "Study Guides/Bio Test 1 Study Guide.md",
+    "American Studies/The Crisis.md",
+    "American Studies/Tulsa Massacre.md",
+    "American Studies/NAACP.md",
+    "American Studies/Ned Cobb.md",
     "BIO TEST 2 Study Guide.html",
     "Biology/Gene Regulation/Transformation.md",
-    "BIO TEST 2 Study Guide.md",
     "Biology/Gene Regulation/Repressor.md",
     "Biology/Gene Regulation/Repressible Operon.md",
     "Biology/Gene Regulation/Regulatory Gene.md",
-    "Eyes on the Prize.md",
-    "Bio Project.md",
+    "American Studies/Eyes on the Prize.md",
+    "Study Guides/Bio Project.md",
     "Biology/Gene Regulation/Plasmid.md",
     "Biology/Gene Regulation/Operon.md",
     "Biology/Gene Regulation/Operator.md",
@@ -158,16 +156,6 @@
     "Biology/Gene Regulation/Gene Regulation.md",
     "Biology/Gene Regulation/Corepressor.md",
     "Biology/Gene Regulation/CAP Site.md",
-    "Biology/Gene Regulation/CAP.md",
-    "Biology/Gene Regulation/cAMP.md",
-    "Biology/Gene Regulation/Activator.md",
-    "The Crisis.md",
-    "Ned Cobb.md",
-    "WEB du Bois.md",
-    "NAACP.md",
-    "Tulsa Massacre.md",
-    "Walter White.md",
-    "American Studies/Women/John D. Rockefeller.md",
     "American Studies/Women",
     "Study Guides",
     "Biology/Gene Regulation",

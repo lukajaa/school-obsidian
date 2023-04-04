@@ -62,3 +62,22 @@
 	Transformation is when a cell takes up a new gene and expresses it?
 - How does it work in [[prokaryotes]] to make synthetic human products?
 	Transformation is the process in which a [[DNA]] is placed onto a [[plasmid]] and is then placed into a bacteria in hopes that it will survive and reproduce with the new DNA.
+
+- What is [[Methylation]]?
+	Methylation can happen on either [[Chromatin]] or [[DNA]]. 
+	1. When chromatin gets packed super tightly
+	2. When it blocks the DNA
+- What is Acetylation?
+	It is the unpacking of [[Chromatin]] that allows for higher rates of transcription because more [[DNA]] is exposed
+- What is a transcription factor?
+	Transcription factors are a collection of proteins that mediate the binding of [[RNA Polymerase]] and the start of [[Transcription]]
+- What is a transcription initiation complex?
+	It is when all of the transcription factors have bound to the [[Promoter]] and then the [[RNA Polymerase]] can bind
+- What is [[miRNA]] and [[SiRNA]]?
+	[[RNA]]s that break apart [[mRNA]]
+- What is [[Deadenylation]]
+	Breaks apart the poly-a tail and 5' cap of the [[mRNA]] that are added during [[RNA Processing]]
+- What is Protein Activation
+	Phosphorylizing with [[ATP]] that can activate the proteins
+- What is Ubiquization
+	[[Ubiquitin]] is a protein marker that tells proteins to go the proteasome to get broken down
