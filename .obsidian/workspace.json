@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58d6e58095923065",
+            "id": "b22af2d7e6d34447",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Community Ecology.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Community Ecology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Community Ecology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +128,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58d6e58095923065",
+  "active": "b22af2d7e6d34447",
   "lastOpenFiles": [
+    "Community Ecology.md",
     "Study Guides/BIO TEST 2 Study Guide.md",
     "Study Guides/BIO TEST 2 Study Guide.html",
     "LINKS.md",
