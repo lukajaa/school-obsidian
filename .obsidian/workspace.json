@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd6fe70890b2e27",
+        "id": "38a64b8d2cc0b6e8",
         "type": "tabs",
         "children": [
           {
-            "id": "08efe6f55bf229ee",
+            "id": "58d6e58095923065",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Guides/BIO TEST 2 Study Guide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Guides/BIO TEST 2 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Guides/BIO TEST 2 Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +121,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08efe6f55bf229ee",
+  "active": "58d6e58095923065",
   "lastOpenFiles": [
-    "Biology/Ubiquitin.md",
     "Study Guides/BIO TEST 2 Study Guide.md",
+    "Study Guides/BIO TEST 2 Study Guide.html",
+    "LINKS.md",
+    "Biology/Ubiquitin.md",
     "Biology/Deadenylation.md",
     "Biology/miRNA.md",
     "Biology/Central Dogma/Topics/Transcription Factor.md",
@@ -154,8 +150,6 @@
     "Biology/Gene Regulation/Inducible Operon.md",
     "Biology/Gene Regulation/Inducer.md",
     "Biology/Gene Regulation/Gene Regulation.md",
-    "Biology/Gene Regulation/Corepressor.md",
-    "Biology/Gene Regulation/CAP Site.md",
     "American Studies/Women",
     "Study Guides",
     "Biology/Gene Regulation",
