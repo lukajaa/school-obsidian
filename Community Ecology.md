@@ -19,15 +19,11 @@ Character displacement is the phenomenon that species separated can be mores sim
 
 ## Predation (+/-)
 ### Predators
-Predators often have adaptations like fangs, claws, etc to attack their prey
+Predators often have adaptations like fangs, claws, etc to attack their prey. 
 ### Prey
 #### Coloration
 Camouflage (cryptic coloration) and bright warning colors (aposematic coloration) are used by prey to avoid predators
 #### Mimicry
 Prey can also mimic dangerous species (Batesian Mimicry)
-## Herbivore
-Animals that prey on
-
-## Herbivory
 
 ## Symbiosis
