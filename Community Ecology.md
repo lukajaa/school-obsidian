@@ -1,6 +1,5 @@
 # Interspecific Interactions
 >Interspecific interactions can be grouped into three categories +/- (zero sum eg. predation), +/+ (symbiotic), and 0 (no effect)
-
 ## Competition (-/-)
 Interspecific competition is competition over a certain resource (often food) such as grass or shared prey
 ### Competitive Exclusion
@@ -27,3 +26,20 @@ Camouflage (cryptic coloration) and bright warning colors (aposematic coloration
 Prey can also mimic dangerous species (Batesian Mimicry)
 
 ## Symbiosis
+Symbiosis is when two organisms live in close and intimate contact with each other
+### Parasitism (+/-)
+Parasitism is when a parasite organism feeds on a host organism and takes its nutrients, oftentimes damaging the reproductive and survival ability of the host organism
+#### Endoparasite
+Endoparasites attach to the inside of the host (eg. tapeworms)
+#### Exoparasite
+Exoparasites attach to the outside of the host (eg. ticks)
+
+### Mutualism (+/+)
+Mutualism is a mutually beneficial form of symbiosis in which two organisms help each other
+#### Obligate Mutualism
+One organism has the lost the ability to survive without the other
+#### Facilitative Mutualism
+Both organisms can survive independently
+#### Coevolution
+Mutualistic organisms sometimes coevolve in tandem with each other such as flowering plants and bees
+### Commenalism 
