@@ -42,4 +42,15 @@ One organism has the lost the ability to survive without the other
 Both organisms can survive independently
 #### Coevolution
 Mutualistic organisms sometimes coevolve in tandem with each other such as flowering plants and bees
-### Commenalism 
+### Commensalism (+/0)
+Commensalistic relationships are relationships where one species benefits without affecting the other in either way
+Commensalistic relationships are hard (and prove to be truly commensalistic) to find but a few examples include:
+- Algae growing on turtles
+- Bird that find food in the grass after it being exposed by cattle
+
+
+## Facilitation (+/+) or (+/0)
+Facilitation is where one species has an effect on another species without being in direct, intimate contact with them
+An example is Juncus gerardi which helps plants grown in soil by preventing salt buildup.
+
+# Diversity and trophic structure
