@@ -54,3 +54,51 @@ Facilitation is where one species has an effect on another species without being
 An example is Juncus gerardi which helps plants grown in soil by preventing salt buildup.
 
 # Diversity and trophic structure
+>Diversity and trophic structure are attributes of an ecosystem that play a role in how they act
+## Species Diversity
+Species diversity is the variety of different organisms in an ecosystem; it can be hard to measure due to very rare organisms and microorganisms
+### Species Richness
+Species richness is the number of species there are
+### Relative Abundance
+Relative abundance is the percentage that each species takes up
+> Useful because species richness doesn't always show diversity because 99% of trees could be one species
+### Shannon Diversity Index
+H = - (Pa In Pa + Pb In Pb + Pc In Pc + ...)
+Where a, b, c are different species and Pa, Pb, Pc are the percentage of those species
+
+## Diversity and Community Stability
+The more diverse an ecosystem is, the more stable it is and more resistant it is to **invasive predators**
+
+## Trophic Structure
+Trophic structure examines how energy moves from primary producers (plants) to primary consumers (herbivores) to secondary/tertiary/quaternary consumers (carnivores)
+### Food Webs
+You can organize trophic structure into a food web to examine who eats who
+You can simplify food webs by grouping similar species and isolating species that don't interact very much
+### Limits on Food Chain Length
+Food chains are normally less than 5 species in length, with the longest not be much longer than 7
+#### Energetic Hypothesis
+The **Energetic Hypothesis** suggests that only 10% of energy can be moved between each trophic level (100kg of plant matter can only sustain 10kg of herbivore biomass), limiting the length of food chains
+#### Dynamic Stability Hypothesis
+The **Dynamic Stability Hypothesis** suggests that smaller chains are more stable because population loss is magnified by each link in the food chain
+
+
+## Species with a Large Impact
+### Dominant Species
+Dominant species are the species that are either the most abundant or have the highest biomass. Hypothesis suggest that they have a competitive edge in resource usage compared to other species. The death of a dominant species can drastically effect the whole ecosystem
+### Keystone Species
+Keystone species are not dominant, but they usually occupy a specific niche that makes them important
+#### Trophic Interactions
+Sea otters eat sea urchins which eat kelp. When sea otters are present, kelp forests are healthy, but when they are absent or get eaten, then kelp forests collapse
+#### Ecosystem Engineers
+Beavers are ecosystem engineers who engineer the environment and thereby have a large impact on the ecosystem
+
+## Bottom-Up and Top-down Controls
+Arrows indicate that a change in biomass affects another trophic level. There are three general levels: v -> h (increase in vegetation increases herbivore biomass), h -> v (increase in herbivore biomass will decrease the abundance of vegetation), h <-> v (both of the species affect each other)
+### Bottom-Up Model (v->h)
+The simple form is n -> v -> h -> p
+Where n is nutrients, v is vegetation, h is herbivores, and p is predators. Thus, to change the make up of this ecosystem you have to add more nutrients to the soil which increases the number of all above tiers.
+### Top-Down Model (v<-h)
+The simple form is n <- v <- h <- p
+If p is reduce, h is increased which reduces v, which increases n. This creates an alternating effect of increase and decreases.
+
+# Disturbance
