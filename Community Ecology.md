@@ -102,3 +102,39 @@ The simple form is n <- v <- h <- p
 If p is reduce, h is increased which reduces v, which increases n. This creates an alternating effect of increase and decreases.
 
 # Disturbance
+>A disturbance is an event that changes the organism makeup of an ecosystem, supporting the **non equilibrium model** because disturbances are constantly changing communities.
+## Intermediate Disturbance Hypothesis
+Moderate levels of disturbance create more diversity than either small or high levels. This is because high levels of disturbance totally shatter ecosystems and small levels of disturbance often only harm certain groups, allowing other existing groups to take over, thereby reducing diversity.
+### High levels of disturbance
+High levels of disturbance, such as natural forest fires, can also be beneficial in healing an environment
+
+## Ecological Succession
+Ecological succession is when a disturbed area's existing community is replaced by a set of new species, and then another, and then another.
+### Types
+**Primary Succession** occurs when species start to replace an area that was left totally bare
+**Secondary Succession** occurs when an existing community is cleared by something that leaves the soil intact
+
+## Human Disturbance
+Human activities such as trawling, deforestation, agriculture, and industry are the main drivers of ecosystem disturbance nowadays
+
+# Biogeographic Factors
+>The area and latitude of communities are two other factors that influence an ecosystem
+## Latitudinal Gradients
+There are multiple reasons why the tropics have more diversity:
+1. The tropics have had to "start over" less due to them being less impacted by ice ages and warming
+2. The tropics have a longer growing season
+3. Evapotranspiration
+### Evapotranspiration
+Evapotranspiration is a metric of solar radiation, temperature and water availability.
+
+## Area Effects
+### Species-Area Curve
+All other factors being equal, the larger and area is the more species it will have, likely due to a higher number of microclimates
+
+## Island Equilibrium Model
+The number of species immigrating and emigrating from an island will eventually reach an equilibrium, decided by the size of the island and its distance from the mainland
+### Factors
+- Large Islands will have higher rates of immigration because they have a bigger area
+- Small Islands will have higher rates of extinction because they have less resources
+- The more species on an island, the higher the extinction rate because of competition
+- Islands closer to the mainland will have higher rates of immigration
