@@ -138,3 +138,23 @@ The number of species immigrating and emigrating from an island will eventually 
 - Small Islands will have higher rates of extinction because they have less resources
 - The more species on an island, the higher the extinction rate because of competition
 - Islands closer to the mainland will have higher rates of immigration
+
+
+# Pathogens
+>Pathogens, especially ones new to a community, can drastically change the makeup of an ecosystem.
+## Pathogens and Community Structure
+### White Band Disease
+White band disease destroys coral reefs, increasing the amount of algae and in turn fish that feed on those algae, dramatically changing the 3D ecosystem.
+### Sudden Oak Death
+This disease caused death of oak trees around the bay Area, displacing birds.
+
+## Community Ecology and Zoonotic Diseases
+Zoonotic pathogens are pathogens transferred from an animal species to humans, either directly or through a vector (likes ticks, lice, and mosquitoes).
+
+
+# Extra Sources
+1. [Species Diversity and Resilience](https://www.khanacademy.org/science/ap-college-environmental-science/x0b0e430a38ebd23f:the-living-world-ecosystems-and-biodiversity/x0b0e430a38ebd23f:intro-to-biodiversity-and-biogeography/a/species-diversity-and-ecosystem-resilience)
+2. [Species Niches and Competition](https://www.khanacademy.org/science/ap-biology/ecology-ap/community-ecology/a/niches-competition)
+3. [Species Niches](https://www.jstor.org/stable/24873136)
+4. [Top Down Trophic Structure](https://en.wikipedia.org/wiki/Trophic_cascade)
+5. [Ecological Succession](https://www.britannica.com/science/ecological-succession)
