@@ -11,5 +11,6 @@
   "note-composer",
   "command-palette",
   "slash-command",
-  "editor-status"
+  "editor-status",
+  "bookmarks"
 ]
