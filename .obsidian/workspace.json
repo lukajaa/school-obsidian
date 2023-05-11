@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "31d40c5eb96c790a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +136,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31d40c5eb96c790a",
+  "active": "b22af2d7e6d34447",
   "lastOpenFiles": [
     "Community Ecology.md",
     "Study Guides/BIO TEST 2 Study Guide.md",
