@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38a64b8d2cc0b6e8",
+        "id": "d6d4912fb0ea0067",
         "type": "tabs",
         "children": [
           {
-            "id": "b22af2d7e6d34447",
+            "id": "023893ce31bd7e42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Community Ecology.md",
-                "mode": "source",
-                "source": false
+                "file": "Bay Clock/BC3/BC3.canvas",
+                "viewState": {
+                  "x": -150.0210941537905,
+                  "y": 401.64921216240924,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -69,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Community Ecology.md",
+                "file": "Bay Clock/BC3/BC3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Community Ecology.md",
+                "file": "Bay Clock/BC3/BC3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -136,39 +138,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b22af2d7e6d34447",
+  "active": "023893ce31bd7e42",
   "lastOpenFiles": [
-    "Community Ecology.md",
-    "Study Guides/BIO TEST 2 Study Guide.md",
-    "Study Guides/BIO TEST 2 Study Guide.html",
-    "LINKS.md",
-    "Biology/Ubiquitin.md",
-    "Biology/Deadenylation.md",
-    "Biology/miRNA.md",
-    "Biology/Central Dogma/Topics/Transcription Factor.md",
-    "Biology/Methylation.md",
-    "Biology/Acetylation.md",
-    "Study Guides/Bio Test 1 Study Guide.md",
-    "American Studies/The Crisis.md",
-    "American Studies/Tulsa Massacre.md",
-    "American Studies/NAACP.md",
-    "American Studies/Ned Cobb.md",
-    "BIO TEST 2 Study Guide.html",
-    "Biology/Gene Regulation/Transformation.md",
-    "Biology/Gene Regulation/Repressor.md",
-    "Biology/Gene Regulation/Repressible Operon.md",
-    "Biology/Gene Regulation/Regulatory Gene.md",
-    "American Studies/Eyes on the Prize.md",
-    "Study Guides/Bio Project.md",
-    "Biology/Gene Regulation/Plasmid.md",
-    "Biology/Gene Regulation/Operon.md",
-    "Biology/Gene Regulation/Operator.md",
-    "Biology/Gene Regulation/Inducible Operon.md",
-    "Biology/Gene Regulation/Inducer.md",
-    "Biology/Gene Regulation/Gene Regulation.md",
-    "American Studies/Women",
-    "Study Guides",
-    "Biology/Gene Regulation",
-    "American Studies/Capitalism, Labor, and Immigration/Source Notes"
+    "Bay Clock/BC3/pages/index.vue.md",
+    "Bay Clock/BC3/components/Header.vue.md",
+    "Bay Clock/BC3/BC3.canvas",
+    "Bay Clock/BC3/components/Footer.vue.md",
+    "Bay Clock/BC3/components/ButtonGroup.vue.md",
+    "Bay Clock/BC3/components/ProgressBars.vue.md",
+    "Bay Clock/BC3/components/But",
+    "Bay Clock/BC3/components",
+    "Bay Clock/BC3/pages",
+    "Bay Clock/BC2/BC2.canvas",
+    "Bay Clock/BC2/Index.vue.md",
+    "Bay Clock/BC3",
+    "Bay Clock/BC2",
+    "Archive",
+    "Archive/LINKS.md",
+    "Excalidraw/Test.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-14 10.38.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-13 09.57.30.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-14 10.43.17.excalidraw.md",
+    "Archive/Junior Year/S2",
+    "Archive/Junior Year",
+    "Bay Clock",
+    "Archive/Junior Year/S2/Community Ecology.md",
+    "Archive/Junior Year/S2/Study Guides/BIO TEST 2 Study Guide.md",
+    "Archive/Junior Year/S2/Study Guides/BIO TEST 2 Study Guide.html",
+    "Archive/Junior Year/S2/Biology/Ubiquitin.md",
+    "Archive/Junior Year/S2/Biology/Deadenylation.md",
+    "Archive/Junior Year/S2/Biology/miRNA.md",
+    "Archive/Junior Year/S2/Biology/Central Dogma/Topics/Transcription Factor.md",
+    "Archive/Junior Year/S2/Biology/Methylation.md",
+    "Archive/Junior Year/S2/Biology/Acetylation.md",
+    "Archive/Junior Year/S2/Study Guides/Bio Test 1 Study Guide.md",
+    "Archive/Junior Year/S2/American Studies/The Crisis.md",
+    "Archive/Junior Year/S2/American Studies/Tulsa Massacre.md",
+    "Archive/Junior Year/S2/American Studies/NAACP.md",
+    "Archive/Junior Year/S2/American Studies/Ned Cobb.md",
+    "Archive/Junior Year/S2/Biology/Gene Regulation/Transformation.md"
   ]
 }

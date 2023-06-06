@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarFaceSmile",
+      "IbArchive",
+      "FarClock",
       "RiAncientGateLine",
-      "IbPencil",
-      "IbChartBar",
-      "RiMicroscopeLine",
-      "RiFingerprint-2-line"
+      "IbPencil"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,13 +19,17 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
-  "American Studies": "IbFlag",
-  "Biology": "RiMicroscopeLine",
-  "Calculus": "SiWolframmathematica",
-  "Statistics": "IbChartBar",
   "Excalidraw": "IbPencil",
-  "Asian American Literature": "RiAncientGateLine",
-  "Biology/Central Dogma": "RiFingerprint-2-line"
+  "Archive/Junior Year/S2/American Studies": "IbFlag",
+  "Archive/Junior Year/S2/Asian American Literature": "RiAncientGateLine",
+  "Archive/Junior Year/S2/Biology": "RiMicroscopeLine",
+  "Archive/Junior Year/S2/Biology/Central Dogma": "RiFingerprint-2-line",
+  "Archive/Junior Year/S2/Calculus": "SiWolframmathematica",
+  "Archive/Junior Year/S2/Statistics": "IbChartBar",
+  "Bay Clock": "FarClock",
+  "Archive": "IbArchive",
+  "Bay Clock/BC3": "FarFaceSmile"
 }
