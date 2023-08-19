@@ -21,8 +21,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "f4e097e6aa0cd900",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Bay Clock/BC3/BC3.canvas",
+                "viewState": {
+                  "x": 70.15231304225864,
+                  "y": 205.85519786372214,
+                  "zoom": -0.9250527923117279
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +154,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "023893ce31bd7e42",
+  "active": "f4e097e6aa0cd900",
   "lastOpenFiles": [
     "Bay Clock/BC3/pages/index.vue.md",
     "Bay Clock/BC3/components/Header.vue.md",
