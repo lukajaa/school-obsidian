@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"Bay Clock 2 Mindmap","id":"984ab427ad056421","x":-180,"y":-300,"width":250,"height":50},
+		{"type":"file","file":"Archive/Bay Clock/BC2/Index.vue.md","id":"edf7d1ac7aa9775b","x":-255,"y":-220,"width":400,"height":402},
+		{"type":"text","text":"Header","id":"6eb8a30bdb68dcef","x":-660,"y":-250,"width":250,"height":60},
+		{"type":"text","text":"Clock","id":"7be9e7341335f926","x":-940,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Date","id":"6fbdb7d6501dfe51","x":-940,"y":-49,"width":250,"height":60},
+		{"type":"text","text":"Special Schedule Indicator","id":"43e02089eaca3a29","x":-620,"y":-68,"width":250,"height":79},
+		{"type":"text","text":"Time Left","id":"59ced3d49dd17649","x":-620,"y":-160,"width":250,"height":60},
+		{"type":"text","text":"Progress Bars","id":"c47bce3300b628c6","x":220,"y":-250,"width":250,"height":60},
+		{"id":"820a1c6630b4dec6","x":220,"y":-130,"width":250,"height":60,"type":"text","text":"Progress Bar for each class"},
+		{"id":"5ef28287e960779f","x":-220,"y":320,"width":250,"height":60,"type":"text","text":"Functions"},
+		{"id":"0c37d72246a9634a","x":-580,"y":320,"width":250,"height":60,"type":"text","text":"Variables"}
+	],
+	"edges":[]
+}

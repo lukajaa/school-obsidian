@@ -1,0 +1,1 @@
+Contains header, progress bar, buttons, and footer logic all in one vue file 👎

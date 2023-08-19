@@ -1,1 +1,0 @@
-Contains one bar for each class

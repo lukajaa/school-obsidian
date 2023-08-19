@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Bay Clock/BC3/BC3.canvas",
+                "file": "Archive/Bay Clock/BC3/BC3.canvas",
                 "viewState": {
                   "x": -150.0210941537905,
                   "y": 401.64921216240924,
@@ -21,24 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "f4e097e6aa0cd900",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Bay Clock/BC3/BC3.canvas",
-                "viewState": {
-                  "x": 70.15231304225864,
-                  "y": 205.85519786372214,
-                  "zoom": -0.9250527923117279
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bay Clock/BC3/BC3.canvas",
+                "file": "Archive/Bay Clock/BC3/BC3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bay Clock/BC3/BC3.canvas",
+                "file": "Archive/Bay Clock/BC3/BC3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,33 +138,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4e097e6aa0cd900",
+  "active": "6043e84c70296472",
   "lastOpenFiles": [
-    "Bay Clock/BC3/pages/index.vue.md",
-    "Bay Clock/BC3/components/Header.vue.md",
-    "Bay Clock/BC3/BC3.canvas",
-    "Bay Clock/BC3/components/Footer.vue.md",
-    "Bay Clock/BC3/components/ButtonGroup.vue.md",
-    "Bay Clock/BC3/components/ProgressBars.vue.md",
+    "Group Theory",
+    "Physics 2",
+    "Gothic Literature",
+    "Russian Literature",
+    "Tom and Gerry.pdf",
+    "Hugues-Hallett Calculus Single & Multivariable 6th txtbk.pdf",
+    "Gilded Age Collage.png",
+    "Notes for Intro (1).pdf",
+    "Archive/Bay Clock/BC3/BC3.canvas",
+    "Archive/Bay Clock/BC3/pages/index.vue.md",
+    "Archive/Bay Clock/BC3/components/Header.vue.md",
+    "Archive/Bay Clock/BC3/components/Footer.vue.md",
+    "Archive/Bay Clock/BC3/components/ButtonGroup.vue.md",
+    "Archive/Bay Clock/BC3/components/ProgressBars.vue.md",
     "Bay Clock/BC3/components/But",
-    "Bay Clock/BC3/components",
-    "Bay Clock/BC3/pages",
-    "Bay Clock/BC2/BC2.canvas",
-    "Bay Clock/BC2/Index.vue.md",
-    "Bay Clock/BC3",
-    "Bay Clock/BC2",
-    "Archive",
+    "Archive/Bay Clock/BC3/components",
+    "Archive/Bay Clock/BC3/pages",
+    "Archive/Bay Clock/BC2/BC2.canvas",
+    "Archive/Bay Clock/BC2/Index.vue.md",
+    "Archive/Bay Clock/BC3",
     "Archive/LINKS.md",
     "Excalidraw/Test.excalidraw.md",
     "Excalidraw/Drawing 2023-02-14 10.38.45.excalidraw.md",
     "Excalidraw/Drawing 2023-03-13 09.57.30.excalidraw.md",
     "Excalidraw/Drawing 2023-02-14 10.43.17.excalidraw.md",
-    "Archive/Junior Year/S2",
-    "Archive/Junior Year",
-    "Bay Clock",
     "Archive/Junior Year/S2/Community Ecology.md",
     "Archive/Junior Year/S2/Study Guides/BIO TEST 2 Study Guide.md",
-    "Archive/Junior Year/S2/Study Guides/BIO TEST 2 Study Guide.html",
     "Archive/Junior Year/S2/Biology/Ubiquitin.md",
     "Archive/Junior Year/S2/Biology/Deadenylation.md",
     "Archive/Junior Year/S2/Biology/miRNA.md",

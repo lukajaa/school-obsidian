@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"Archive/Bay Clock/BC3/pages/index.vue.md","id":"e4e0aaf47007b1b0","x":-155,"y":-180,"width":400,"height":160,"color":"2"},
+		{"type":"file","file":"Archive/Bay Clock/BC3/components/Header.vue.md","id":"084af9213ac0d125","x":-1240,"y":-180,"width":400,"height":160,"color":"3"},
+		{"type":"file","file":"Archive/Bay Clock/BC3/components/Footer.vue.md","id":"3552346f86066f14","x":45,"y":507,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Archive/Bay Clock/BC3/components/ButtonGroup.vue.md","id":"c08f8f670b4f2fc7","x":-555,"y":200,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Archive/Bay Clock/BC3/components/ProgressBars.vue.md","id":"c2da2e8130ad22aa","x":960,"y":-170,"width":400,"height":140,"color":"3"},
+		{"type":"text","text":"https://bayclock.org","id":"e009da60590ac7af","x":-279,"y":-2,"width":524,"height":342},
+		{"type":"text","text":"Bay Clock 3","id":"e08caa221cb007f7","x":-80,"y":-280,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"f8dd344c75cf988e","fromNode":"e4e0aaf47007b1b0","fromSide":"left","toNode":"084af9213ac0d125","toSide":"right"},
+		{"id":"e27d240f1e8e1568","fromNode":"e4e0aaf47007b1b0","fromSide":"right","toNode":"c2da2e8130ad22aa","toSide":"left"}
+	]
+}

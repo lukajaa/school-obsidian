@@ -1,1 +1,0 @@
-Displays the current time, date, time left in the day, 
