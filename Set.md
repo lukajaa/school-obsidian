@@ -1,1 +1,1 @@
-Collection of things {a, b, c}
+Well defined collection of things {a, b, c}

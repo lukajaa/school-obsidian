@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group Theory/Group Axioms.md",
+                "file": "Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group Theory/Group Axioms.md",
+                "file": "Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Group Theory/Group Axioms.md",
+                "file": "Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,9 @@
   },
   "active": "2ba9c5f275a32520",
   "lastOpenFiles": [
+    "Group Theory/Group Axioms.md",
     "Closed.md",
     "Binary Operation.md",
-    "Group Theory/Group Axioms.md",
     "Set.md",
     "Group Theory",
     "Physics 2",
