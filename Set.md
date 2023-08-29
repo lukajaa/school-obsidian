@@ -1,0 +1,1 @@
+Collection of things {a, b, c}

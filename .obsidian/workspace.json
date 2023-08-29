@@ -21,8 +21,33 @@
                 }
               }
             }
+          },
+          {
+            "id": "98969e5afb8d9e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Operation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ba9c5f275a32520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Group Theory/Group Axioms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -88,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Bay Clock/BC3/BC3.canvas",
+                "file": "Group Theory/Group Axioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Bay Clock/BC3/BC3.canvas",
+                "file": "Group Theory/Group Axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6043e84c70296472",
+  "active": "2ba9c5f275a32520",
   "lastOpenFiles": [
+    "Closed.md",
+    "Binary Operation.md",
+    "Group Theory/Group Axioms.md",
+    "Set.md",
     "Group Theory",
     "Physics 2",
     "Gothic Literature",
@@ -159,7 +189,6 @@
     "Archive/Bay Clock/BC3/pages",
     "Archive/Bay Clock/BC2/BC2.canvas",
     "Archive/Bay Clock/BC2/Index.vue.md",
-    "Archive/Bay Clock/BC3",
     "Archive/LINKS.md",
     "Excalidraw/Test.excalidraw.md",
     "Excalidraw/Drawing 2023-02-14 10.38.45.excalidraw.md",
@@ -175,9 +204,6 @@
     "Archive/Junior Year/S2/Biology/Acetylation.md",
     "Archive/Junior Year/S2/Study Guides/Bio Test 1 Study Guide.md",
     "Archive/Junior Year/S2/American Studies/The Crisis.md",
-    "Archive/Junior Year/S2/American Studies/Tulsa Massacre.md",
-    "Archive/Junior Year/S2/American Studies/NAACP.md",
-    "Archive/Junior Year/S2/American Studies/Ned Cobb.md",
-    "Archive/Junior Year/S2/Biology/Gene Regulation/Transformation.md"
+    "Archive/Junior Year/S2/American Studies/Tulsa Massacre.md"
   ]
 }

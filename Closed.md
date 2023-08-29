@@ -1,0 +1,1 @@
+2 elements from the same [[Set]] combined via [[Binary Operation]] \*, the results in in the same set
