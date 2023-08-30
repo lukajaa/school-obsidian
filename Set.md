@@ -21,4 +21,4 @@ $\mathbb{Z}^{+}$ = set of all positive numbers in given sets
 $a \mathrel{R} b$ if a (in set A) is related to b (in set B)
 - $a \mathrel{R} b = (a,b)\in \mathrel{R}$
 
-function mapping X into Y is a relation between X and Y with $x \in X$ apears as first ordered pair of (x, y) in o cross thing
+function mapping X into Y is a relation between X and Y with $x \in X$ appears as first ordered pair of (x, y) in $\phi$
