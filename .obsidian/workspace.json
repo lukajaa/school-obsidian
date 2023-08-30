@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Operation.md",
+                "file": "Group Theory/Binary Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set.md",
+                "file": "SSP/VMT.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c0d359de423325ce",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set.md",
+                "file": "SSP/VMT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set.md",
+                "file": "SSP/VMT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +165,13 @@
   },
   "active": "2ba9c5f275a32520",
   "lastOpenFiles": [
-    "Cardinality.md",
-    "Set.md",
+    "Group Theory/Binary Operation.md",
+    "SSP/VMT.md",
+    "Group Theory/Set.md",
+    "SSP",
+    "Group Theory/Cardinality.md",
     "Group Theory/Group Axioms.md",
-    "Closed.md",
-    "Binary Operation.md",
+    "Group Theory/Closed.md",
     "Group Theory",
     "Physics 2",
     "Gothic Literature",
@@ -187,7 +188,6 @@
     "Archive/Bay Clock/BC3/components/ProgressBars.vue.md",
     "Bay Clock/BC3/components/But",
     "Archive/Bay Clock/BC3/components",
-    "Archive/Bay Clock/BC3/pages",
     "Archive/Bay Clock/BC2/BC2.canvas",
     "Archive/Bay Clock/BC2/Index.vue.md",
     "Archive/LINKS.md",
@@ -203,7 +203,6 @@
     "Archive/Junior Year/S2/Biology/Central Dogma/Topics/Transcription Factor.md",
     "Archive/Junior Year/S2/Biology/Methylation.md",
     "Archive/Junior Year/S2/Biology/Acetylation.md",
-    "Archive/Junior Year/S2/Study Guides/Bio Test 1 Study Guide.md",
-    "Archive/Junior Year/S2/American Studies/The Crisis.md"
+    "Archive/Junior Year/S2/Study Guides/Bio Test 1 Study Guide.md"
   ]
 }
